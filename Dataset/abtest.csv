@@ -1,0 +1,26 @@
+UserID,Timestamp,ExperimentGroup,PageViewed,ButtonClicked,ConversionOccurred,PurchaseValue,DeviceType,Location
+User_001,2025-03-10 10:00:00,A,Homepage,Yes,No,NULL,Desktop,Bangkok
+User_002,2025-03-10 10:05:30,B,Product Page,Yes,Yes,25.5,Mobile,Chiang Mai
+User_003,2025-03-10 10:12:15,A,Pricing Page,No,No,NULL,Tablet,Phuket
+User_004,2025-03-10 10:18:45,B,Homepage,Yes,No,NULL,Desktop,Songkhla
+User_005,2025-03-10 10:25:00,A,Contact Us,Yes,Yes,100,Mobile,Rayong
+User_006,2025-03-10 10:31:30,B,Product Page,Yes,No,NULL,Tablet,Nakhon Ratchasima
+User_007,2025-03-10 10:38:00,A,Homepage,No,No,NULL,Desktop,Chonburi
+User_008,2025-03-10 10:44:30,B,Pricing Page,Yes,Yes,42.75,Mobile,Udon Thani
+User_009,2025-03-10 10:51:00,A,Product Page,Yes,No,NULL,Tablet,Khon Kaen
+User_010,2025-03-10 10:57:30,B,Contact Us,Yes,No,NULL,Desktop,Surat Thani
+User_011,2025-03-10 11:04:00,A,Homepage,Yes,Yes,78.9,Mobile,Ubon Ratchathani
+User_012,2025-03-10 11:10:30,B,Product Page,No,No,NULL,Tablet,Chiang Rai
+User_013,2025-03-10 11:17:00,A,Pricing Page,Yes,No,NULL,Desktop,Nonthaburi
+User_014,2025-03-10 11:23:30,B,Homepage,Yes,Yes,150.2,Mobile,Pathum Thani
+User_015,2025-03-10 11:30:00,A,Contact Us,No,No,NULL,Tablet,Nakhon Pathom
+User_016,2025-03-10 11:36:30,B,Product Page,Yes,No,NULL,Desktop,Samut Prakan
+User_017,2025-03-10 11:43:00,A,Homepage,Yes,No,NULL,Mobile,Phitsanulok
+User_018,2025-03-10 11:49:30,B,Pricing Page,Yes,Yes,65,Tablet,Ayutthaya
+User_019,2025-03-10 11:56:00,A,Product Page,No,No,NULL,Desktop,Suphan Buri
+User_020,2025-03-10 12:02:30,B,Contact Us,Yes,No,NULL,Mobile,Lopburi
+User_021,2025-03-10 12:09:00,A,Homepage,Yes,Yes,92.45,Tablet,Kanchanaburi
+User_022,2025-03-10 12:15:30,B,Product Page,Yes,No,NULL,Desktop,Ratchaburi
+User_023,2025-03-10 12:22:00,A,Pricing Page,No,No,NULL,Mobile,Tak
+User_024,2025-03-10 12:28:30,B,Homepage,Yes,Yes,115.75,Tablet,Nakhon Sawan
+User_025,2025-03-10 12:35:00,A,Contact Us,Yes,No,NULL,Desktop,Phetchaburi

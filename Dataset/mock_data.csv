@@ -1,0 +1,1001 @@
+date,product_id,product_name,category,region,sales,quantity,customer_id,customer_name,customer_segment
+2023-06-22,P001,Laptop Pro X1,Electronics,West,274.45,8,C1,Roberto Wiley,Premium
+2023-01-31,P006,Blender Pro,Appliances,North,1113.19,2,C2,Thomas Collins,Premium
+2023-08-07,P004,Wireless Mouse,Electronics,East,994.5,7,C3,Mary Wilcox,Regular
+2023-06-16,P008,Smartwatch,Electronics,East,751.47,4,C4,Misty Sims,Premium
+2023-03-18,P003,Coffee Maker Deluxe,Appliances,West,889.03,5,C5,Kevin Walker,Premium
+2023-03-30,P006,Blender Pro,Appliances,West,1165.94,3,C6,Brittany Rocha,Budget
+2023-11-03,P001,Laptop Pro X1,Electronics,West,1735.61,7,C7,Gregory Perez,Premium
+2023-11-03,P001,Laptop Pro X1,Electronics,West,185.06,9,C8,Nancy Jackson,Regular
+2023-11-10,P002,Office Chair Ergonomic,Furniture,West,320.54,3,C9,Alison Martinez,Premium
+2023-11-11,P006,Blender Pro,Appliances,West,729.52,8,C10,Darren Martinez,Premium
+2023-01-04,P008,Smartwatch,Electronics,West,1306.38,7,C11,Clarence Barry DVM,Budget
+2023-03-03,P007,Gaming Keyboard,Electronics,North,1722.3,5,C12,Michelle Colon,Regular
+2023-09-02,P004,Wireless Mouse,Electronics,East,554.33,7,C13,Zachary Rangel,Premium
+2023-01-20,P007,Gaming Keyboard,Electronics,West,304.17,6,C14,Cynthia Cannon,Regular
+2023-12-04,P001,Laptop Pro X1,Electronics,East,1715.46,8,C15,Andrew Carey,Budget
+2023-12-24,P009,Sofa Set,Furniture,East,1075.69,6,C16,James Meadows,Regular
+2023-07-02,P010,Refrigerator,Appliances,East,1314.38,7,C17,Kim Dorsey DVM,Budget
+2023-01-14,P003,Coffee Maker Deluxe,Appliances,North,809.12,1,C18,Jennifer Cunningham,Premium
+2023-12-05,P004,Wireless Mouse,Electronics,East,1623.74,1,C19,Jamie Bush,Regular
+2023-10-14,P010,Refrigerator,Appliances,West,700.21,2,C20,Kimberly White,Premium
+2023-04-23,P003,Coffee Maker Deluxe,Appliances,East,1695.93,8,C21,Carlos White,Regular
+2023-10-10,P010,Refrigerator,Appliances,North,1657.86,7,C22,Emily Lopez,Budget
+2023-08-07,P009,Sofa Set,Furniture,West,1355.14,3,C23,Mrs. Haley Freeman DDS,Budget
+2023-03-29,P005,Dining Table Set,Furniture,East,1902.8,4,C24,Todd Jennings,Regular
+2023-01-03,P008,Smartwatch,Electronics,West,230.31,5,C25,Jennifer Choi,Budget
+2023-07-12,P010,Refrigerator,Appliances,West,1303.84,1,C26,Whitney Rogers,Regular
+2023-04-22,P005,Dining Table Set,Furniture,West,1468.76,10,C27,Dana Ramirez,Budget
+2023-11-07,P001,Laptop Pro X1,Electronics,East,319.87,8,C28,Karen House,Premium
+2023-01-22,P004,Wireless Mouse,Electronics,East,206.86,2,C29,Emily Smith,Premium
+2023-05-23,P001,Laptop Pro X1,Electronics,West,1905.18,4,C30,Ian Barber,Premium
+2023-06-15,P003,Coffee Maker Deluxe,Appliances,East,1364.56,6,C31,Jessica Ward,Budget
+2023-07-01,P004,Wireless Mouse,Electronics,West,632.71,10,C32,Jodi Simpson,Budget
+2023-05-22,P009,Sofa Set,Furniture,West,1572.7,2,C33,Anita Vincent,Premium
+2023-08-25,P003,Coffee Maker Deluxe,Appliances,North,1003.82,1,C34,Joseph Baker,Regular
+2023-06-03,P004,Wireless Mouse,Electronics,West,1716.5,10,C35,Brittney George,Budget
+2023-10-10,P002,Office Chair Ergonomic,Furniture,East,348.83,1,C36,Gary Weber,Budget
+2023-08-01,P003,Coffee Maker Deluxe,Appliances,East,1871.45,5,C37,Paul Rodriguez,Premium
+2023-10-23,P005,Dining Table Set,Furniture,North,1142.49,1,C38,Kelsey Howard DVM,Budget
+2023-03-12,P006,Blender Pro,Appliances,East,1196.21,4,C39,Thomas Calderon,Premium
+2023-05-30,P002,Office Chair Ergonomic,Furniture,North,662.62,8,C40,David Hughes,Premium
+2023-03-02,P007,Gaming Keyboard,Electronics,North,898.56,7,C41,Casey Lee,Budget
+2023-06-29,P002,Office Chair Ergonomic,Furniture,West,999.97,7,C42,Dustin Gutierrez,Regular
+2023-02-21,P008,Smartwatch,Electronics,West,1854.78,7,C43,Amy Gonzalez,Regular
+2023-04-25,P003,Coffee Maker Deluxe,Appliances,East,1854.53,3,C44,Andrea Simmons,Regular
+2023-01-15,P004,Wireless Mouse,Electronics,West,772.54,5,C45,Robert Carpenter,Premium
+2023-03-29,P006,Blender Pro,Appliances,North,465.26,6,C46,Christopher Beard,Premium
+2023-12-21,P001,Laptop Pro X1,Electronics,East,1214.53,9,C47,Joel Dixon,Budget
+2023-11-10,P006,Blender Pro,Appliances,West,371.11,7,C48,Joseph Walton,Premium
+2023-12-27,P009,Sofa Set,Furniture,West,1510.22,4,C49,Adam Jensen,Premium
+2023-06-18,P003,Coffee Maker Deluxe,Appliances,North,92.09,6,C50,Jennifer Wood,Premium
+2023-07-16,P001,Laptop Pro X1,Electronics,East,826.63,8,C51,Jerry Johnson,Regular
+2023-11-23,P005,Dining Table Set,Furniture,East,151.61,8,C52,Nicole Willis,Regular
+2023-04-02,P003,Coffee Maker Deluxe,Appliances,North,764.77,10,C53,Phillip Stein,Regular
+2023-08-11,P006,Blender Pro,Appliances,West,1884.47,6,C54,Dustin Yoder,Budget
+2023-02-07,P009,Sofa Set,Furniture,West,1655.17,4,C55,Michael Wolf,Premium
+2023-02-13,P003,Coffee Maker Deluxe,Appliances,East,741.38,10,C56,Clarence Morales,Premium
+2023-03-05,P004,Wireless Mouse,Electronics,West,135.87,8,C57,Kathryn Rosario,Regular
+2023-11-23,P010,Refrigerator,Appliances,East,272.79,6,C58,Matthew Smith,Premium
+2023-08-26,P005,Dining Table Set,Furniture,East,276.29,9,C59,Stephanie Torres,Budget
+2023-02-06,P001,Laptop Pro X1,Electronics,West,377.63,3,C60,Russell Ingram,Budget
+2023-06-04,P010,Refrigerator,Appliances,West,1130.1,7,C61,Paul Hamilton,Budget
+2023-07-02,P008,Smartwatch,Electronics,West,359.07,7,C62,Lance Jones,Premium
+2023-04-19,P010,Refrigerator,Appliances,West,1175.72,10,C63,Connor Moon,Premium
+2023-04-12,P010,Refrigerator,Appliances,East,438.54,2,C64,Pamela Nichols,Regular
+2023-01-19,P010,Refrigerator,Appliances,West,757.32,1,C65,Elizabeth Armstrong,Budget
+2023-01-20,P008,Smartwatch,Electronics,North,1202.23,1,C66,Robin Blake,Budget
+2023-04-10,P005,Dining Table Set,Furniture,North,513.09,3,C67,Kelly Hamilton,Premium
+2023-11-06,P001,Laptop Pro X1,Electronics,North,314.2,8,C68,Jessica White,Budget
+2023-11-23,P009,Sofa Set,Furniture,North,928.88,4,C69,Grace Crawford,Premium
+2023-07-19,P005,Dining Table Set,Furniture,North,1082.67,9,C70,Dana Chase,Regular
+2023-11-20,P010,Refrigerator,Appliances,North,1594.03,1,C71,Vanessa Peterson,Premium
+2023-07-14,P009,Sofa Set,Furniture,North,134.97,4,C72,Matthew Burgess,Regular
+2023-05-20,P002,Office Chair Ergonomic,Furniture,North,209.87,2,C73,Brett Delgado,Premium
+2023-02-27,P004,Wireless Mouse,Electronics,North,1530.58,7,C74,Ellen White,Premium
+2023-12-05,P007,Gaming Keyboard,Electronics,North,676.21,7,C75,Amanda King,Budget
+2023-08-19,P007,Gaming Keyboard,Electronics,West,367.66,3,C76,Darin Johnson,Premium
+2023-11-06,P010,Refrigerator,Appliances,East,1227.75,1,C77,Douglas Horton,Premium
+2023-11-21,P003,Coffee Maker Deluxe,Appliances,North,802.74,6,C78,Zachary Wilson,Budget
+2023-08-29,P010,Refrigerator,Appliances,West,1663.21,5,C79,Thomas Grant,Regular
+2023-03-12,P003,Coffee Maker Deluxe,Appliances,East,872.82,2,C80,Todd Schneider,Premium
+2023-04-13,P009,Sofa Set,Furniture,North,1815.35,9,C81,David Ferguson,Premium
+2023-03-06,P008,Smartwatch,Electronics,North,936.19,6,C82,Susan Smith,Premium
+2023-11-02,P008,Smartwatch,Electronics,North,1250.33,10,C83,Jon Rose,Budget
+2023-09-08,P009,Sofa Set,Furniture,West,1433.26,5,C84,Ryan Smith,Regular
+2023-10-05,P007,Gaming Keyboard,Electronics,East,1913.05,5,C85,Hayden Navarro,Budget
+2023-08-20,P003,Coffee Maker Deluxe,Appliances,East,826.16,9,C86,Eric Vincent,Regular
+2023-01-10,P001,Laptop Pro X1,Electronics,West,1314.32,10,C87,Ricky Hernandez Jr.,Regular
+2023-04-15,P001,Laptop Pro X1,Electronics,North,1470.88,1,C88,Hannah Hubbard,Budget
+2023-07-08,P002,Office Chair Ergonomic,Furniture,East,448.82,1,C89,George Martinez,Regular
+2023-09-02,P010,Refrigerator,Appliances,West,1483.59,10,C90,Jason Byrd,Regular
+2023-08-14,P008,Smartwatch,Electronics,East,1122.68,5,C91,Jennifer Castro,Premium
+2023-09-01,P002,Office Chair Ergonomic,Furniture,North,913.62,8,C92,Hannah Clark,Budget
+2023-03-24,P009,Sofa Set,Furniture,East,590.2,2,C93,Gregory Harris,Premium
+2023-01-02,P003,Coffee Maker Deluxe,Appliances,East,1193.91,1,C94,Joseph Ramos,Budget
+2023-04-26,P002,Office Chair Ergonomic,Furniture,North,1955.61,10,C95,Marissa Jackson,Premium
+2023-09-14,P010,Refrigerator,Appliances,North,636.84,10,C96,Jason Howell,Regular
+2023-02-06,P002,Office Chair Ergonomic,Furniture,North,1714.44,7,C97,Doris Parks,Premium
+2023-11-22,P003,Coffee Maker Deluxe,Appliances,North,598.08,5,C98,Blake Myers,Premium
+2023-09-18,P006,Blender Pro,Appliances,East,1193.36,4,C99,Brandi Hudson,Regular
+2023-07-10,P001,Laptop Pro X1,Electronics,East,1068.89,8,C100,Rebecca Collins,Premium
+2023-12-27,P002,Office Chair Ergonomic,Furniture,West,710.49,7,C101,Pamela Murphy DDS,Regular
+2023-06-29,P010,Refrigerator,Appliances,North,1066.1,9,C102,Anna Hess,Premium
+2023-02-06,P009,Sofa Set,Furniture,East,1972.22,4,C103,Joseph Jordan,Premium
+2023-11-03,P008,Smartwatch,Electronics,North,134.54,10,C104,Michael Archer,Premium
+2023-03-25,P009,Sofa Set,Furniture,East,141.02,5,C105,Jorge Stuart,Budget
+2023-05-06,P005,Dining Table Set,Furniture,East,1590.14,1,C106,Miss Lynn Schaefer,Regular
+2023-05-19,P009,Sofa Set,Furniture,North,1276.13,4,C107,Crystal Hoffman,Regular
+2023-06-14,P005,Dining Table Set,Furniture,East,1401.68,2,C108,Crystal Hawkins,Premium
+2023-06-01,P006,Blender Pro,Appliances,West,664.16,10,C109,Betty Pena,Premium
+2023-05-09,P007,Gaming Keyboard,Electronics,North,1368.09,2,C110,April Downs,Regular
+2023-06-30,P005,Dining Table Set,Furniture,North,1174.63,5,C111,Katherine Crosby,Regular
+2023-01-05,P007,Gaming Keyboard,Electronics,East,240.57,7,C112,William Reyes,Regular
+2023-06-25,P002,Office Chair Ergonomic,Furniture,West,679.86,6,C113,Dr. Chelsea Newton,Regular
+2023-02-27,P008,Smartwatch,Electronics,North,229.12,2,C114,Karen Bowen,Budget
+2023-10-01,P003,Coffee Maker Deluxe,Appliances,West,489.63,2,C115,Carrie Clark,Budget
+2023-04-28,P002,Office Chair Ergonomic,Furniture,East,1897.67,8,C116,Barbara White,Budget
+2023-11-19,P008,Smartwatch,Electronics,West,553.59,1,C117,Kevin Walters,Regular
+2023-10-17,P003,Coffee Maker Deluxe,Appliances,West,936.39,5,C118,Becky Woods,Regular
+2023-11-26,P002,Office Chair Ergonomic,Furniture,North,1583.48,8,C119,Anne Johnson,Regular
+2023-02-10,P008,Smartwatch,Electronics,West,228.64,6,C120,Ashley Phillips,Budget
+2023-02-16,P009,Sofa Set,Furniture,North,642.87,5,C121,Thomas Nicholson,Premium
+2023-11-22,P004,Wireless Mouse,Electronics,East,1017.03,4,C122,Brianna Brown,Budget
+2023-02-20,P010,Refrigerator,Appliances,West,604.07,6,C123,Jo Moore,Regular
+2023-08-28,P007,Gaming Keyboard,Electronics,East,698.26,1,C124,Leslie Benjamin,Budget
+2023-05-24,P007,Gaming Keyboard,Electronics,West,1681.08,2,C125,Brittany Steele,Premium
+2023-12-15,P006,Blender Pro,Appliances,East,1599.32,6,C126,Sharon Mcintyre,Premium
+2023-08-26,P004,Wireless Mouse,Electronics,East,1993.73,7,C127,Andrew Whitehead,Budget
+2023-02-25,P009,Sofa Set,Furniture,West,1241.5,4,C128,Eric Hull,Budget
+2023-06-05,P004,Wireless Mouse,Electronics,North,870.02,7,C129,James Wiley,Premium
+2023-05-12,P009,Sofa Set,Furniture,East,645.45,3,C130,Ryan Moore,Premium
+2023-12-07,P008,Smartwatch,Electronics,West,1517.91,4,C131,Casey Montgomery,Regular
+2023-08-30,P004,Wireless Mouse,Electronics,East,823.9,3,C132,Mitchell Jarvis,Budget
+2023-10-28,P005,Dining Table Set,Furniture,East,974.49,5,C133,Denise Salas,Budget
+2023-10-14,P003,Coffee Maker Deluxe,Appliances,North,367.12,9,C134,Rebecca Palmer,Budget
+2023-09-16,P001,Laptop Pro X1,Electronics,East,1392.03,2,C135,Christopher Sutton,Regular
+2023-10-12,P005,Dining Table Set,Furniture,East,1465.99,1,C136,Anthony Dean,Regular
+2023-10-18,P003,Coffee Maker Deluxe,Appliances,West,1635.74,9,C137,Derek Colon,Budget
+2023-03-22,P003,Coffee Maker Deluxe,Appliances,West,1786.61,6,C138,Courtney Townsend,Regular
+2023-04-21,P001,Laptop Pro X1,Electronics,East,1127.64,9,C139,Russell Thompson,Budget
+2023-09-01,P002,Office Chair Ergonomic,Furniture,North,1686.17,6,C140,Michael Cuevas,Premium
+2023-04-01,P002,Office Chair Ergonomic,Furniture,West,1808.18,1,C141,Kimberly Jackson,Premium
+2023-12-31,P004,Wireless Mouse,Electronics,East,1465.7,2,C142,Matthew Crane,Premium
+2023-03-18,P008,Smartwatch,Electronics,East,1832.4,4,C143,Laura Hernandez,Budget
+2023-11-09,P010,Refrigerator,Appliances,East,1166.89,2,C144,Jason Robinson,Premium
+2023-12-29,P008,Smartwatch,Electronics,West,706.9,1,C145,Amanda Brown,Budget
+2023-07-23,P006,Blender Pro,Appliances,West,1497.52,2,C146,Jacob Martinez,Premium
+2023-11-18,P003,Coffee Maker Deluxe,Appliances,North,488.03,6,C147,Taylor Foster,Regular
+2023-11-24,P004,Wireless Mouse,Electronics,East,734.3,5,C148,Richard Smith,Premium
+2023-05-17,P005,Dining Table Set,Furniture,West,1989.67,2,C149,Isaac Ballard,Budget
+2023-06-13,P006,Blender Pro,Appliances,North,1541.38,10,C150,David Brown,Regular
+2023-03-10,P002,Office Chair Ergonomic,Furniture,North,498.96,2,C151,Troy Mccarthy,Premium
+2023-11-20,P003,Coffee Maker Deluxe,Appliances,North,1462.09,3,C152,Amber Rojas,Budget
+2023-10-08,P001,Laptop Pro X1,Electronics,East,1285.64,8,C153,Devin Carpenter,Premium
+2023-03-21,P008,Smartwatch,Electronics,North,358.24,4,C154,Bradley Christensen,Regular
+2023-07-11,P010,Refrigerator,Appliances,North,1548.45,5,C155,Greg Gray,Regular
+2023-09-07,P003,Coffee Maker Deluxe,Appliances,East,897.11,1,C156,Charles Powell,Regular
+2023-12-27,P004,Wireless Mouse,Electronics,North,567.76,10,C157,Nicholas Solis,Budget
+2023-05-28,P005,Dining Table Set,Furniture,North,652.76,5,C158,Douglas Chen,Premium
+2023-11-25,P007,Gaming Keyboard,Electronics,East,131.95,5,C159,Jason Peterson,Regular
+2023-01-28,P006,Blender Pro,Appliances,West,544.14,4,C160,Samuel Ballard,Budget
+2023-05-10,P004,Wireless Mouse,Electronics,North,462.77,1,C161,Robert Moreno,Regular
+2023-03-19,P002,Office Chair Ergonomic,Furniture,East,1099.6,5,C162,Allison Drake,Regular
+2023-02-26,P001,Laptop Pro X1,Electronics,North,1863.76,1,C163,Ariana Cruz,Budget
+2023-06-11,P009,Sofa Set,Furniture,West,1950.05,6,C164,Penny Porter,Budget
+2023-01-21,P001,Laptop Pro X1,Electronics,North,322.27,8,C165,Tina Pratt,Regular
+2023-09-03,P010,Refrigerator,Appliances,West,567.94,8,C166,Shane Simon,Budget
+2023-05-17,P001,Laptop Pro X1,Electronics,North,965.47,9,C167,John Lee,Budget
+2023-09-01,P005,Dining Table Set,Furniture,West,1216.08,8,C168,Christina Weber,Regular
+2023-10-26,P007,Gaming Keyboard,Electronics,North,943.4,9,C169,Carolyn Winters,Budget
+2023-02-26,P005,Dining Table Set,Furniture,West,1208.44,6,C170,Daniel Williams,Regular
+2023-07-17,P002,Office Chair Ergonomic,Furniture,West,682.86,4,C171,Kristen Boone,Premium
+2023-02-11,P006,Blender Pro,Appliances,East,201.23,8,C172,Rachel Hoffman,Budget
+2023-02-24,P002,Office Chair Ergonomic,Furniture,West,1417.38,3,C173,Eric Collier,Budget
+2023-03-09,P004,Wireless Mouse,Electronics,West,909.68,10,C174,Alexandra Miles,Budget
+2023-04-23,P003,Coffee Maker Deluxe,Appliances,North,1373.31,1,C175,John Sanders,Premium
+2023-06-02,P009,Sofa Set,Furniture,West,758.49,8,C176,Kimberly Carson,Budget
+2023-12-31,P010,Refrigerator,Appliances,East,1138.94,9,C177,Robin Steele,Budget
+2023-01-07,P002,Office Chair Ergonomic,Furniture,North,305.83,1,C178,Deborah Carter,Regular
+2023-03-10,P004,Wireless Mouse,Electronics,East,917.31,8,C179,Yesenia Lynn,Premium
+2023-10-23,P002,Office Chair Ergonomic,Furniture,North,1002.28,2,C180,Stephen Garcia,Premium
+2023-02-27,P001,Laptop Pro X1,Electronics,West,1691.11,5,C181,Micheal King,Regular
+2023-12-04,P002,Office Chair Ergonomic,Furniture,West,1592.53,4,C182,Vicki Jones,Regular
+2023-06-12,P009,Sofa Set,Furniture,East,1659.29,2,C183,Diana Bright,Premium
+2023-02-15,P003,Coffee Maker Deluxe,Appliances,North,1887.27,4,C184,Eric Smith,Budget
+2023-06-21,P010,Refrigerator,Appliances,East,925.86,5,C185,Brooke Brown,Premium
+2023-01-04,P008,Smartwatch,Electronics,North,1533.46,4,C186,Michael Mcgee,Budget
+2023-05-28,P010,Refrigerator,Appliances,East,306.57,8,C187,Steve Riley,Premium
+2023-09-09,P010,Refrigerator,Appliances,West,317.05,10,C188,April Hall,Premium
+2023-05-29,P006,Blender Pro,Appliances,East,1485.93,7,C189,Kristin Thompson,Regular
+2023-10-17,P004,Wireless Mouse,Electronics,North,1851.03,2,C190,Sarah Moreno,Regular
+2023-07-31,P005,Dining Table Set,Furniture,North,708.36,3,C191,Alexandria Sloan,Premium
+2023-09-10,P006,Blender Pro,Appliances,West,962.21,9,C192,Mrs. Kristin Yoder,Regular
+2023-10-03,P004,Wireless Mouse,Electronics,North,1517.32,7,C193,Eric Smith,Budget
+2023-08-03,P009,Sofa Set,Furniture,North,1523.89,7,C194,Jeremy Rodriguez,Budget
+2023-09-11,P009,Sofa Set,Furniture,East,1484.87,10,C195,Thomas Chavez,Budget
+2023-03-04,P010,Refrigerator,Appliances,East,1653.99,1,C196,Chad Hanson,Regular
+2023-03-01,P005,Dining Table Set,Furniture,West,315.06,10,C197,Kenneth Jones,Budget
+2023-08-02,P010,Refrigerator,Appliances,West,77.67,5,C198,Andrea Blair,Budget
+2023-07-29,P001,Laptop Pro X1,Electronics,North,1763.64,1,C199,Karen Riddle,Budget
+2023-04-18,P008,Smartwatch,Electronics,North,973.97,5,C200,Sherri Baker,Regular
+2023-12-01,P009,Sofa Set,Furniture,North,1611.16,5,C201,Amanda Day,Budget
+2023-01-16,P007,Gaming Keyboard,Electronics,East,1695.5,10,C202,James Peterson,Regular
+2023-07-02,P006,Blender Pro,Appliances,East,633.93,2,C203,Jonathan Johnston,Budget
+2023-01-01,P006,Blender Pro,Appliances,West,871.23,8,C204,Tina Villanueva,Regular
+2023-12-29,P003,Coffee Maker Deluxe,Appliances,North,351.99,7,C205,Shannon Davis,Budget
+2023-07-12,P007,Gaming Keyboard,Electronics,West,754.43,9,C206,Kenneth Braun,Budget
+2023-12-10,P003,Coffee Maker Deluxe,Appliances,West,997.44,6,C207,Kimberly Reyes,Premium
+2023-03-04,P003,Coffee Maker Deluxe,Appliances,North,1769.75,7,C208,Allen Clark,Budget
+2023-07-21,P001,Laptop Pro X1,Electronics,East,1449.82,1,C209,Brenda Cochran,Budget
+2023-04-17,P001,Laptop Pro X1,Electronics,West,850.83,1,C210,Kelly Brennan,Premium
+2023-06-19,P003,Coffee Maker Deluxe,Appliances,East,1518.32,1,C211,Mark Johnson,Premium
+2023-02-09,P003,Coffee Maker Deluxe,Appliances,West,437.32,4,C212,Juan Adkins,Premium
+2023-07-16,P009,Sofa Set,Furniture,North,1026.03,1,C213,Christine Pena,Premium
+2023-07-12,P001,Laptop Pro X1,Electronics,East,261.87,9,C214,Kayla Smith,Premium
+2023-11-02,P001,Laptop Pro X1,Electronics,East,205.56,2,C215,Alexa Diaz,Regular
+2023-12-13,P005,Dining Table Set,Furniture,North,215.34,10,C216,Jill Oneal,Regular
+2023-11-03,P003,Coffee Maker Deluxe,Appliances,East,404.28,7,C217,Eugene Price,Budget
+2023-09-09,P001,Laptop Pro X1,Electronics,North,1587.2,6,C218,Michael Barton,Regular
+2023-05-27,P004,Wireless Mouse,Electronics,North,1096.91,6,C219,Robert Alvarez,Premium
+2023-05-24,P005,Dining Table Set,Furniture,East,1547.82,1,C220,Ryan Lee,Budget
+2023-11-14,P009,Sofa Set,Furniture,North,1800.0,3,C221,Richard Howard,Premium
+2023-06-26,P004,Wireless Mouse,Electronics,West,1469.31,4,C222,Sean Bailey,Premium
+2023-09-11,P007,Gaming Keyboard,Electronics,East,736.45,6,C223,Nicole Miller,Premium
+2023-07-12,P006,Blender Pro,Appliances,East,1009.95,8,C224,Kara Bradford,Regular
+2023-11-03,P002,Office Chair Ergonomic,Furniture,West,1003.09,1,C225,Kristina Carter,Premium
+2023-09-12,P010,Refrigerator,Appliances,East,1196.92,10,C226,Phillip Foster,Premium
+2023-01-06,P003,Coffee Maker Deluxe,Appliances,North,1484.86,8,C227,Tami Austin,Regular
+2023-06-15,P006,Blender Pro,Appliances,North,388.27,7,C228,Steven Lopez,Budget
+2023-09-16,P003,Coffee Maker Deluxe,Appliances,West,400.61,8,C229,Gordon Russell,Premium
+2023-10-09,P007,Gaming Keyboard,Electronics,West,55.96,3,C230,Alexander Horton,Regular
+2023-11-20,P010,Refrigerator,Appliances,North,139.04,10,C231,Steven Bird,Premium
+2023-09-24,P004,Wireless Mouse,Electronics,West,1564.53,5,C232,Melanie Peterson,Regular
+2023-04-21,P008,Smartwatch,Electronics,North,156.16,1,C233,Kimberly Thomas,Regular
+2023-01-29,P004,Wireless Mouse,Electronics,West,1830.33,2,C234,Roberta Marquez,Premium
+2023-06-07,P002,Office Chair Ergonomic,Furniture,West,194.95,5,C235,Julie Black,Premium
+2023-01-03,P007,Gaming Keyboard,Electronics,North,86.46,10,C236,Jordan Perkins,Premium
+2023-09-19,P008,Smartwatch,Electronics,East,60.49,9,C237,Janet Hood,Premium
+2023-12-11,P001,Laptop Pro X1,Electronics,West,1148.28,1,C238,Tony Jones,Premium
+2023-11-22,P009,Sofa Set,Furniture,West,537.26,9,C239,Mr. Mark Vang,Budget
+2023-09-21,P002,Office Chair Ergonomic,Furniture,East,686.64,3,C240,Zachary Wilson,Premium
+2023-06-06,P003,Coffee Maker Deluxe,Appliances,East,1205.46,5,C241,Dr. Ashley Walker,Regular
+2023-02-13,P005,Dining Table Set,Furniture,North,245.95,7,C242,Rachel Nelson,Budget
+2023-07-26,P003,Coffee Maker Deluxe,Appliances,North,1916.17,7,C243,Steven Ayala,Budget
+2023-04-21,P005,Dining Table Set,Furniture,West,375.28,5,C244,Michael Smith,Budget
+2023-04-10,P001,Laptop Pro X1,Electronics,East,1562.68,6,C245,Richard Ramirez,Budget
+2023-12-08,P007,Gaming Keyboard,Electronics,West,1955.82,10,C246,Connor Joseph,Premium
+2023-01-11,P005,Dining Table Set,Furniture,East,1103.69,7,C247,Whitney Phillips,Premium
+2023-02-07,P010,Refrigerator,Appliances,West,1430.28,10,C248,Mrs. Amanda Oliver,Budget
+2023-01-13,P006,Blender Pro,Appliances,North,1686.84,8,C249,Brandon Alexander,Regular
+2023-12-31,P005,Dining Table Set,Furniture,West,370.48,1,C250,Angela Smith,Premium
+2023-01-03,P005,Dining Table Set,Furniture,East,849.1,6,C251,Michelle Allison,Premium
+2023-12-01,P008,Smartwatch,Electronics,North,1724.1,3,C252,David Turner,Premium
+2023-07-22,P010,Refrigerator,Appliances,East,1785.35,8,C253,Christine Romero,Premium
+2023-04-03,P010,Refrigerator,Appliances,East,1746.38,4,C254,Samuel Martin,Budget
+2023-12-30,P010,Refrigerator,Appliances,North,945.71,1,C255,Dr. Kerry Moore,Premium
+2023-09-07,P007,Gaming Keyboard,Electronics,North,1117.67,4,C256,Joseph Johnson,Budget
+2023-12-04,P005,Dining Table Set,Furniture,North,777.84,2,C257,Patrick Delgado,Regular
+2023-03-12,P008,Smartwatch,Electronics,North,169.66,5,C258,Andrea Stout,Regular
+2023-08-03,P003,Coffee Maker Deluxe,Appliances,East,1269.13,8,C259,James Williams,Regular
+2023-06-05,P001,Laptop Pro X1,Electronics,East,95.8,9,C260,Daniel Khan,Budget
+2023-06-16,P007,Gaming Keyboard,Electronics,East,624.84,8,C261,Angela Scott,Premium
+2023-03-24,P005,Dining Table Set,Furniture,North,1791.55,3,C262,John Smith,Regular
+2023-03-01,P009,Sofa Set,Furniture,East,974.34,5,C263,Todd Rowland,Regular
+2023-03-15,P010,Refrigerator,Appliances,West,1961.36,8,C264,Tracy Davis,Regular
+2023-07-19,P005,Dining Table Set,Furniture,East,129.07,7,C265,Rebecca Yates,Budget
+2023-11-11,P006,Blender Pro,Appliances,East,1807.51,8,C266,Candice Patel,Regular
+2023-12-28,P009,Sofa Set,Furniture,East,1587.45,7,C267,Samuel Williams,Budget
+2023-10-28,P004,Wireless Mouse,Electronics,East,1859.91,5,C268,Jacqueline Parsons,Regular
+2023-12-26,P007,Gaming Keyboard,Electronics,East,193.38,10,C269,Daniel Dyer,Premium
+2023-09-16,P005,Dining Table Set,Furniture,North,771.05,4,C270,Kyle Russell,Budget
+2023-09-06,P003,Coffee Maker Deluxe,Appliances,North,145.05,2,C271,William Cooper,Regular
+2023-03-23,P001,Laptop Pro X1,Electronics,West,910.93,2,C272,Sandra Smith,Budget
+2023-06-26,P005,Dining Table Set,Furniture,North,948.01,8,C273,Samuel Schmidt,Budget
+2023-03-10,P005,Dining Table Set,Furniture,North,1526.72,7,C274,Jessica Hamilton,Budget
+2023-09-12,P010,Refrigerator,Appliances,East,462.15,5,C275,Robert Lee,Budget
+2023-09-18,P001,Laptop Pro X1,Electronics,East,514.34,6,C276,John Lee,Regular
+2023-03-24,P005,Dining Table Set,Furniture,East,464.92,7,C277,Courtney Anthony,Budget
+2023-09-10,P004,Wireless Mouse,Electronics,East,71.28,1,C278,Heather Harvey,Premium
+2023-02-15,P005,Dining Table Set,Furniture,North,1595.9,2,C279,Joshua Anderson,Regular
+2023-09-08,P007,Gaming Keyboard,Electronics,East,258.8,9,C280,James Patterson,Premium
+2023-08-13,P007,Gaming Keyboard,Electronics,West,573.22,3,C281,Amy Williams,Regular
+2023-02-27,P001,Laptop Pro X1,Electronics,West,1550.32,10,C282,Susan Griffin,Regular
+2023-05-17,P002,Office Chair Ergonomic,Furniture,West,159.92,1,C283,Johnny Miller,Regular
+2023-01-16,P009,Sofa Set,Furniture,West,1282.77,9,C284,Alicia Martinez,Budget
+2023-06-22,P003,Coffee Maker Deluxe,Appliances,East,932.24,2,C285,Robin White,Regular
+2023-02-28,P002,Office Chair Ergonomic,Furniture,North,643.96,2,C286,Bailey Thompson,Regular
+2023-12-13,P001,Laptop Pro X1,Electronics,West,1869.43,3,C287,Joseph King,Regular
+2023-04-20,P003,Coffee Maker Deluxe,Appliances,North,1876.51,3,C288,Christopher Smith,Budget
+2023-07-22,P004,Wireless Mouse,Electronics,East,1572.28,9,C289,Karen Jimenez,Premium
+2023-12-05,P005,Dining Table Set,Furniture,North,1508.25,5,C290,James Morales,Regular
+2023-11-14,P002,Office Chair Ergonomic,Furniture,West,447.7,1,C291,Carlos Mitchell,Regular
+2023-03-09,P006,Blender Pro,Appliances,East,1553.44,3,C292,Sarah Mata,Premium
+2023-01-07,P010,Refrigerator,Appliances,East,1782.17,5,C293,Courtney Perkins,Budget
+2023-06-23,P006,Blender Pro,Appliances,East,1931.85,10,C294,Mary Brown,Budget
+2023-04-10,P004,Wireless Mouse,Electronics,West,1160.52,5,C295,Patricia Simon,Regular
+2023-05-10,P009,Sofa Set,Furniture,East,1566.64,2,C296,Peter Smith,Budget
+2023-09-10,P003,Coffee Maker Deluxe,Appliances,East,1220.28,6,C297,Mrs. Sara Young,Premium
+2023-07-30,P008,Smartwatch,Electronics,North,187.71,3,C298,Juan May,Regular
+2023-06-18,P008,Smartwatch,Electronics,West,1913.15,1,C299,Mary Robinson,Premium
+2023-11-03,P004,Wireless Mouse,Electronics,North,989.55,6,C300,John Hernandez,Budget
+2023-11-23,P009,Sofa Set,Furniture,West,219.75,3,C301,Peter Fischer,Regular
+2023-10-16,P007,Gaming Keyboard,Electronics,West,251.34,5,C302,Ann Bailey,Premium
+2023-01-29,P002,Office Chair Ergonomic,Furniture,East,1791.89,5,C303,Nicole Wu,Budget
+2023-09-20,P004,Wireless Mouse,Electronics,East,1527.88,6,C304,Gina Sanders,Budget
+2023-01-29,P002,Office Chair Ergonomic,Furniture,North,1083.74,3,C305,Jennifer Howard,Premium
+2023-07-04,P001,Laptop Pro X1,Electronics,West,1724.39,7,C306,Danielle Hunt,Budget
+2023-03-13,P001,Laptop Pro X1,Electronics,East,1789.28,6,C307,Mrs. Katherine Smith,Budget
+2023-10-02,P007,Gaming Keyboard,Electronics,West,681.23,10,C308,Raymond Fernandez,Regular
+2023-09-06,P007,Gaming Keyboard,Electronics,West,977.1,2,C309,Tanya Day,Budget
+2023-04-07,P001,Laptop Pro X1,Electronics,West,1433.45,10,C310,Albert Hubbard,Premium
+2023-01-04,P007,Gaming Keyboard,Electronics,West,1644.37,2,C311,Jamie Henry,Budget
+2023-05-02,P006,Blender Pro,Appliances,North,1547.49,4,C312,Tracy Brooks,Budget
+2023-05-24,P005,Dining Table Set,Furniture,West,1338.34,2,C313,Michael Wang,Budget
+2023-02-04,P005,Dining Table Set,Furniture,North,674.81,10,C314,Natasha Hernandez,Premium
+2023-05-15,P003,Coffee Maker Deluxe,Appliances,West,738.94,8,C315,Rodney Klein,Premium
+2023-10-26,P002,Office Chair Ergonomic,Furniture,North,95.96,3,C316,Jonathan Garcia,Premium
+2023-06-09,P007,Gaming Keyboard,Electronics,East,1618.13,5,C317,Emily Washington,Regular
+2023-02-11,P009,Sofa Set,Furniture,West,1349.96,9,C318,Dana Mccoy,Budget
+2023-08-02,P006,Blender Pro,Appliances,North,1179.54,3,C319,Lauren Dunn,Premium
+2023-03-30,P008,Smartwatch,Electronics,East,889.31,10,C320,Susan Stone,Premium
+2023-10-26,P003,Coffee Maker Deluxe,Appliances,West,109.14,8,C321,Benjamin Olson,Regular
+2023-11-11,P007,Gaming Keyboard,Electronics,West,1068.93,7,C322,Brenda Vaughan,Budget
+2023-04-08,P001,Laptop Pro X1,Electronics,North,1861.72,4,C323,Stanley Gallagher,Premium
+2023-08-24,P001,Laptop Pro X1,Electronics,North,571.45,5,C324,Kayla Williams,Budget
+2023-10-25,P007,Gaming Keyboard,Electronics,West,1291.88,5,C325,Greg Greene,Premium
+2023-11-10,P005,Dining Table Set,Furniture,East,1114.7,8,C326,Susan Snow,Budget
+2023-08-19,P009,Sofa Set,Furniture,East,248.15,10,C327,Brittany Mcdowell,Premium
+2023-09-23,P005,Dining Table Set,Furniture,West,96.5,1,C328,Michael Thomas,Regular
+2023-02-09,P007,Gaming Keyboard,Electronics,West,921.62,9,C329,Kellie Moore,Premium
+2023-10-21,P001,Laptop Pro X1,Electronics,North,301.1,9,C330,Monique Bruce,Premium
+2023-10-22,P003,Coffee Maker Deluxe,Appliances,East,1684.63,8,C331,Joel Chan,Budget
+2023-03-16,P007,Gaming Keyboard,Electronics,West,1999.42,4,C332,Robert Grant,Premium
+2023-05-02,P003,Coffee Maker Deluxe,Appliances,East,616.09,5,C333,Whitney Daniel,Regular
+2023-05-18,P002,Office Chair Ergonomic,Furniture,East,870.93,8,C334,Jeffery Chang,Regular
+2023-10-04,P003,Coffee Maker Deluxe,Appliances,North,522.39,8,C335,Thomas Fischer,Premium
+2023-04-20,P007,Gaming Keyboard,Electronics,West,1472.09,9,C336,Jessica Sullivan,Premium
+2023-08-29,P007,Gaming Keyboard,Electronics,West,771.41,5,C337,David Alexander,Budget
+2023-11-02,P005,Dining Table Set,Furniture,North,411.55,4,C338,Melissa Medina,Budget
+2023-08-19,P007,Gaming Keyboard,Electronics,North,1944.52,5,C339,Sabrina Jennings,Premium
+2023-06-01,P007,Gaming Keyboard,Electronics,West,959.5,10,C340,Carrie Pierce,Regular
+2023-03-14,P005,Dining Table Set,Furniture,West,668.36,5,C341,Kristy Christensen DDS,Regular
+2023-07-31,P005,Dining Table Set,Furniture,East,1470.37,4,C342,Joel Bird,Regular
+2023-08-04,P010,Refrigerator,Appliances,North,792.89,8,C343,Linda Smith,Budget
+2023-05-02,P008,Smartwatch,Electronics,East,1350.88,10,C344,Christopher Trujillo,Regular
+2023-03-05,P001,Laptop Pro X1,Electronics,North,742.4,4,C345,Jamie Wood,Regular
+2023-10-28,P002,Office Chair Ergonomic,Furniture,North,1170.53,5,C346,Robert Sanchez,Budget
+2023-08-20,P001,Laptop Pro X1,Electronics,West,566.49,10,C347,Melissa Brown,Regular
+2023-07-19,P006,Blender Pro,Appliances,East,651.7,8,C348,Jennifer Miller,Premium
+2023-11-21,P010,Refrigerator,Appliances,North,1503.57,2,C349,Amanda Rivera,Premium
+2023-12-29,P010,Refrigerator,Appliances,West,503.47,10,C350,Michael Randolph,Premium
+2023-10-05,P004,Wireless Mouse,Electronics,East,1519.85,7,C351,Hannah Wheeler,Premium
+2023-11-12,P002,Office Chair Ergonomic,Furniture,North,1276.61,9,C352,Rickey Myers,Regular
+2023-10-06,P002,Office Chair Ergonomic,Furniture,West,1053.33,9,C353,Linda Lambert,Premium
+2023-05-26,P002,Office Chair Ergonomic,Furniture,West,1464.03,4,C354,Betty Barnes,Premium
+2023-12-28,P010,Refrigerator,Appliances,East,1656.32,2,C355,Christina Padilla,Regular
+2023-12-28,P005,Dining Table Set,Furniture,West,1120.94,8,C356,Debra Rosales MD,Budget
+2023-04-18,P006,Blender Pro,Appliances,North,885.53,10,C357,Angela Holmes,Regular
+2023-12-27,P008,Smartwatch,Electronics,East,1701.99,2,C358,Melissa White,Regular
+2023-04-20,P003,Coffee Maker Deluxe,Appliances,North,1549.3,3,C359,Donna Morris,Budget
+2023-04-30,P005,Dining Table Set,Furniture,North,1696.19,1,C360,Mrs. Lauren Lawrence,Budget
+2023-06-17,P005,Dining Table Set,Furniture,North,1971.55,9,C361,Andrew Hudson,Regular
+2023-08-13,P008,Smartwatch,Electronics,West,828.18,10,C362,Suzanne Villanueva,Premium
+2023-09-13,P003,Coffee Maker Deluxe,Appliances,West,1733.63,1,C363,Olivia Gomez,Regular
+2023-01-21,P009,Sofa Set,Furniture,East,139.08,1,C364,Devin Perez,Budget
+2023-12-09,P003,Coffee Maker Deluxe,Appliances,West,717.96,1,C365,Charles Baker,Regular
+2023-07-20,P009,Sofa Set,Furniture,East,601.64,8,C366,Sarah Russell,Budget
+2023-05-21,P006,Blender Pro,Appliances,East,1165.68,1,C367,Jesse Sullivan,Budget
+2023-12-24,P005,Dining Table Set,Furniture,North,330.48,5,C368,Sharon Baker,Budget
+2023-03-14,P008,Smartwatch,Electronics,North,1770.49,3,C369,Jeffrey Gill,Regular
+2023-12-28,P009,Sofa Set,Furniture,East,554.48,10,C370,Christina Proctor,Budget
+2023-11-04,P007,Gaming Keyboard,Electronics,West,1968.25,4,C371,Jill Lee,Budget
+2023-03-20,P004,Wireless Mouse,Electronics,North,983.6,2,C372,David Johnson,Premium
+2023-06-27,P004,Wireless Mouse,Electronics,East,613.88,2,C373,Michael Copeland,Regular
+2023-12-12,P005,Dining Table Set,Furniture,West,1048.01,9,C374,Taylor Browning,Premium
+2023-03-18,P003,Coffee Maker Deluxe,Appliances,East,879.63,7,C375,Paul Bowman,Premium
+2023-08-31,P008,Smartwatch,Electronics,West,968.08,6,C376,David Zimmerman,Premium
+2023-10-19,P004,Wireless Mouse,Electronics,North,1757.23,4,C377,Steven Blackwell,Premium
+2023-05-19,P004,Wireless Mouse,Electronics,East,290.51,3,C378,Rachel Stewart,Budget
+2023-10-10,P005,Dining Table Set,Furniture,East,1728.95,6,C379,George Gonzalez,Regular
+2023-11-11,P009,Sofa Set,Furniture,East,450.03,9,C380,Harry Torres,Budget
+2023-02-28,P004,Wireless Mouse,Electronics,North,1521.23,2,C381,Melanie Huber,Premium
+2023-12-24,P007,Gaming Keyboard,Electronics,East,1899.16,9,C382,Kenneth Browning,Premium
+2023-01-28,P010,Refrigerator,Appliances,North,1400.4,3,C383,Ivan Stewart,Budget
+2023-10-30,P008,Smartwatch,Electronics,West,1673.3,9,C384,Mark Ford,Premium
+2023-02-27,P007,Gaming Keyboard,Electronics,North,1028.71,1,C385,Mr. Adam Harmon MD,Premium
+2023-06-02,P003,Coffee Maker Deluxe,Appliances,West,1147.11,3,C386,Darius Williams,Premium
+2023-05-30,P009,Sofa Set,Furniture,East,1428.04,10,C387,Robert Carter,Premium
+2023-11-28,P006,Blender Pro,Appliances,North,245.27,7,C388,Keith Cunningham,Budget
+2023-11-23,P008,Smartwatch,Electronics,East,580.68,7,C389,Brittany Reynolds,Budget
+2023-11-06,P007,Gaming Keyboard,Electronics,East,1776.23,3,C390,Steve Zamora,Budget
+2023-04-22,P001,Laptop Pro X1,Electronics,East,1193.21,4,C391,Rachel Fowler,Regular
+2023-03-17,P003,Coffee Maker Deluxe,Appliances,East,1817.29,1,C392,Cory Johnson,Budget
+2023-08-18,P007,Gaming Keyboard,Electronics,East,710.77,5,C393,Margaret Parker,Budget
+2023-05-29,P009,Sofa Set,Furniture,West,520.7,8,C394,William Massey,Regular
+2023-09-05,P006,Blender Pro,Appliances,West,613.61,8,C395,Chelsea Taylor,Premium
+2023-05-22,P005,Dining Table Set,Furniture,West,899.67,8,C396,Bradley Waters,Budget
+2023-04-02,P008,Smartwatch,Electronics,North,1633.85,10,C397,Cassandra Carlson,Premium
+2023-03-01,P001,Laptop Pro X1,Electronics,West,1166.34,3,C398,Daniel Ruiz,Premium
+2023-01-10,P002,Office Chair Ergonomic,Furniture,North,1891.85,10,C399,Justin Howard,Budget
+2023-02-20,P009,Sofa Set,Furniture,North,565.26,7,C400,Vanessa Jones,Premium
+2023-07-08,P008,Smartwatch,Electronics,East,1016.38,9,C401,Anna Sutton,Budget
+2023-10-05,P005,Dining Table Set,Furniture,East,1516.96,9,C402,Cindy Nichols,Regular
+2023-01-27,P007,Gaming Keyboard,Electronics,North,668.68,4,C403,Cynthia Hoffman,Regular
+2023-05-01,P002,Office Chair Ergonomic,Furniture,North,754.83,2,C404,William Simon,Budget
+2023-11-11,P008,Smartwatch,Electronics,East,703.89,10,C405,Paul Hicks,Budget
+2023-12-20,P005,Dining Table Set,Furniture,North,465.88,4,C406,Michael Miller,Budget
+2023-10-19,P002,Office Chair Ergonomic,Furniture,West,1696.26,7,C407,Michael Charles,Premium
+2023-05-08,P001,Laptop Pro X1,Electronics,West,299.12,3,C408,Ryan Fox,Premium
+2023-04-30,P001,Laptop Pro X1,Electronics,West,1671.94,1,C409,Gregory Montgomery,Regular
+2023-11-24,P003,Coffee Maker Deluxe,Appliances,West,1361.08,8,C410,Melanie Charles,Budget
+2023-01-21,P006,Blender Pro,Appliances,North,896.08,7,C411,Joshua Ramos,Budget
+2023-01-16,P006,Blender Pro,Appliances,East,1902.15,2,C412,Tyler Wright,Budget
+2023-04-14,P005,Dining Table Set,Furniture,West,969.18,8,C413,William Le,Regular
+2023-01-20,P002,Office Chair Ergonomic,Furniture,West,1655.43,5,C414,Jessica Sutton,Premium
+2023-07-03,P006,Blender Pro,Appliances,West,174.57,4,C415,Kimberly Harris,Regular
+2023-08-08,P007,Gaming Keyboard,Electronics,North,480.27,10,C416,Christine Evans,Regular
+2023-08-09,P001,Laptop Pro X1,Electronics,East,407.25,3,C417,Carol Marks,Budget
+2023-12-08,P002,Office Chair Ergonomic,Furniture,North,145.79,6,C418,Megan Conway,Premium
+2023-03-30,P007,Gaming Keyboard,Electronics,North,839.62,5,C419,Miss Holly Cummings,Regular
+2023-09-18,P001,Laptop Pro X1,Electronics,North,872.32,2,C420,Melinda Bowman,Premium
+2023-04-07,P003,Coffee Maker Deluxe,Appliances,East,820.56,6,C421,John Sanchez,Premium
+2023-11-12,P001,Laptop Pro X1,Electronics,North,728.2,7,C422,Robert Smith,Premium
+2023-12-03,P009,Sofa Set,Furniture,West,219.9,3,C423,Sherri Hart,Budget
+2023-11-06,P009,Sofa Set,Furniture,West,136.93,9,C424,Mr. Adam Mcdaniel,Budget
+2023-09-11,P001,Laptop Pro X1,Electronics,East,1638.66,3,C425,Kenneth Munoz,Premium
+2023-04-17,P010,Refrigerator,Appliances,North,1626.3,6,C426,Brandon Hodge,Regular
+2023-05-04,P003,Coffee Maker Deluxe,Appliances,West,199.34,1,C427,Kelly Willis,Budget
+2023-08-19,P009,Sofa Set,Furniture,West,1254.78,2,C428,Levi Murillo,Regular
+2023-11-26,P001,Laptop Pro X1,Electronics,East,746.32,1,C429,Troy Walker,Regular
+2023-07-08,P006,Blender Pro,Appliances,West,1460.71,6,C430,Casey Day,Premium
+2023-01-04,P004,Wireless Mouse,Electronics,East,1810.74,5,C431,Katherine Garza,Budget
+2023-12-11,P002,Office Chair Ergonomic,Furniture,East,1652.9,9,C432,Linda Guzman,Budget
+2023-08-16,P003,Coffee Maker Deluxe,Appliances,West,888.76,6,C433,Danielle Cooper,Budget
+2023-09-30,P006,Blender Pro,Appliances,West,292.76,2,C434,Roy King,Regular
+2023-11-06,P003,Coffee Maker Deluxe,Appliances,North,517.82,8,C435,Craig Walker,Premium
+2023-12-06,P003,Coffee Maker Deluxe,Appliances,West,1528.61,6,C436,Christy Thompson,Regular
+2023-10-03,P003,Coffee Maker Deluxe,Appliances,East,1322.16,8,C437,Shelly Massey,Premium
+2023-03-05,P002,Office Chair Ergonomic,Furniture,East,1102.84,3,C438,Sarah Morris,Premium
+2023-07-05,P008,Smartwatch,Electronics,East,1582.77,4,C439,Jessica Caldwell,Budget
+2023-12-04,P002,Office Chair Ergonomic,Furniture,East,1637.61,7,C440,David Bartlett,Premium
+2023-08-29,P001,Laptop Pro X1,Electronics,North,1115.15,8,C441,Billy Johnson,Regular
+2023-02-22,P008,Smartwatch,Electronics,North,1647.84,4,C442,Kelly Serrano,Budget
+2023-09-26,P005,Dining Table Set,Furniture,West,1191.61,4,C443,Diana Walsh,Regular
+2023-03-20,P001,Laptop Pro X1,Electronics,West,854.26,2,C444,Karen Jackson,Regular
+2023-03-13,P008,Smartwatch,Electronics,East,1317.6,10,C445,Jerry Salas,Budget
+2023-08-26,P010,Refrigerator,Appliances,North,1094.51,3,C446,Pamela Thompson,Regular
+2023-03-02,P008,Smartwatch,Electronics,West,1968.23,9,C447,Vicki George,Budget
+2023-08-05,P010,Refrigerator,Appliances,North,1172.3,4,C448,Vanessa Graham,Regular
+2023-05-24,P003,Coffee Maker Deluxe,Appliances,East,465.96,5,C449,Michael Mann,Regular
+2023-09-29,P003,Coffee Maker Deluxe,Appliances,North,1083.51,1,C450,Andrew Vincent,Regular
+2023-11-19,P010,Refrigerator,Appliances,West,1983.71,5,C451,John Bautista,Budget
+2023-09-28,P001,Laptop Pro X1,Electronics,East,1449.72,3,C452,Shelley Conley,Regular
+2023-04-14,P006,Blender Pro,Appliances,North,1657.91,8,C453,Jessica Richardson,Budget
+2023-11-18,P007,Gaming Keyboard,Electronics,North,676.76,6,C454,Debbie Schwartz,Regular
+2023-08-02,P002,Office Chair Ergonomic,Furniture,North,121.37,8,C455,Dorothy May,Budget
+2023-11-05,P002,Office Chair Ergonomic,Furniture,North,271.81,4,C456,Mary Smith,Premium
+2023-04-18,P006,Blender Pro,Appliances,North,977.15,8,C457,Melanie Blair,Regular
+2023-02-22,P002,Office Chair Ergonomic,Furniture,West,962.14,3,C458,Keith Swanson,Premium
+2023-09-05,P003,Coffee Maker Deluxe,Appliances,North,179.64,8,C459,Christina Bell,Budget
+2023-04-12,P002,Office Chair Ergonomic,Furniture,North,1361.92,8,C460,Brittany Bell,Premium
+2023-08-03,P007,Gaming Keyboard,Electronics,West,1747.95,4,C461,Jordan Ross,Regular
+2023-10-19,P007,Gaming Keyboard,Electronics,West,580.53,4,C462,Daniel Hendrix,Regular
+2023-01-14,P010,Refrigerator,Appliances,West,1926.91,3,C463,Kimberly Silva,Premium
+2023-11-22,P008,Smartwatch,Electronics,North,133.51,7,C464,Mark Klein,Budget
+2023-05-04,P007,Gaming Keyboard,Electronics,East,698.66,5,C465,Lucas Bishop,Budget
+2023-07-27,P005,Dining Table Set,Furniture,East,179.46,6,C466,Howard Dunn,Premium
+2023-01-29,P001,Laptop Pro X1,Electronics,East,147.03,8,C467,Mckenzie Clark,Regular
+2023-05-08,P009,Sofa Set,Furniture,East,879.81,3,C468,Kimberly Robbins,Budget
+2023-10-22,P001,Laptop Pro X1,Electronics,West,176.05,3,C469,Haley Brown,Regular
+2023-08-22,P006,Blender Pro,Appliances,North,197.73,10,C470,Jonathan Lewis,Premium
+2023-01-14,P006,Blender Pro,Appliances,East,402.01,1,C471,Meredith Walker,Premium
+2023-07-11,P007,Gaming Keyboard,Electronics,West,875.26,4,C472,Jesse Crawford,Premium
+2023-11-08,P006,Blender Pro,Appliances,North,1069.81,8,C473,Erika Freeman,Premium
+2023-03-10,P005,Dining Table Set,Furniture,North,1187.29,4,C474,Heather Lucas,Regular
+2023-09-26,P002,Office Chair Ergonomic,Furniture,East,734.19,6,C475,Donald Allen,Regular
+2023-07-31,P003,Coffee Maker Deluxe,Appliances,West,1113.55,4,C476,Anthony Dyer,Regular
+2023-07-19,P003,Coffee Maker Deluxe,Appliances,West,1868.88,8,C477,Kevin Cox,Budget
+2023-03-23,P009,Sofa Set,Furniture,North,1665.57,8,C478,Monica Young,Budget
+2023-05-28,P005,Dining Table Set,Furniture,West,385.88,9,C479,James Simpson,Budget
+2023-07-01,P009,Sofa Set,Furniture,East,573.8,4,C480,Linda Castillo,Regular
+2023-07-05,P008,Smartwatch,Electronics,North,316.58,8,C481,Robert Kelley,Premium
+2023-12-08,P009,Sofa Set,Furniture,East,1052.04,10,C482,Gary Bradshaw,Regular
+2023-07-16,P007,Gaming Keyboard,Electronics,West,1734.07,10,C483,Steven Byrd,Regular
+2023-08-28,P007,Gaming Keyboard,Electronics,West,118.96,5,C484,Susan Pierce,Budget
+2023-11-25,P006,Blender Pro,Appliances,North,1859.43,3,C485,Andrew Ray,Premium
+2023-08-23,P002,Office Chair Ergonomic,Furniture,North,455.97,1,C486,Kenneth Romero,Premium
+2023-04-27,P010,Refrigerator,Appliances,East,154.63,7,C487,Kenneth Barnes,Premium
+2023-06-17,P001,Laptop Pro X1,Electronics,West,1600.41,6,C488,Jeffrey Lee,Budget
+2023-10-03,P008,Smartwatch,Electronics,North,1167.19,1,C489,Adrian Gomez,Budget
+2023-12-01,P006,Blender Pro,Appliances,North,320.12,8,C490,Sydney Daniel,Budget
+2023-02-18,P005,Dining Table Set,Furniture,North,708.14,6,C491,Kevin Cole,Regular
+2023-07-20,P002,Office Chair Ergonomic,Furniture,West,839.31,3,C492,Angel Anderson,Budget
+2023-09-05,P006,Blender Pro,Appliances,North,703.32,4,C493,Mark Levy,Budget
+2023-05-05,P010,Refrigerator,Appliances,West,483.57,4,C494,Peter Soto,Budget
+2023-06-23,P010,Refrigerator,Appliances,North,661.16,10,C495,Christine Ruiz,Budget
+2023-04-13,P002,Office Chair Ergonomic,Furniture,East,779.66,9,C496,Philip Lee,Budget
+2023-01-30,P003,Coffee Maker Deluxe,Appliances,East,1665.45,10,C497,Jonathan Estes,Premium
+2023-06-16,P001,Laptop Pro X1,Electronics,North,299.61,5,C498,Shannon Thomas,Budget
+2023-06-09,P009,Sofa Set,Furniture,West,1172.99,2,C499,Kyle Rogers,Budget
+2023-01-30,P001,Laptop Pro X1,Electronics,North,426.66,4,C500,Michelle Foster,Budget
+2023-07-04,P004,Wireless Mouse,Electronics,North,104.43,2,C501,Frederick Lopez,Budget
+2023-06-21,P003,Coffee Maker Deluxe,Appliances,North,334.85,1,C502,Megan Robinson,Budget
+2023-08-19,P006,Blender Pro,Appliances,North,116.0,7,C503,April Zamora,Budget
+2023-03-20,P006,Blender Pro,Appliances,North,1481.93,10,C504,Sarah Caldwell,Regular
+2023-07-13,P008,Smartwatch,Electronics,West,949.93,10,C505,Sara Morris,Budget
+2023-12-15,P002,Office Chair Ergonomic,Furniture,East,498.75,6,C506,David Stewart,Regular
+2023-09-01,P006,Blender Pro,Appliances,North,882.34,9,C507,Joseph Garcia,Budget
+2023-01-28,P006,Blender Pro,Appliances,East,1657.63,8,C508,Regina Gutierrez,Budget
+2023-11-23,P006,Blender Pro,Appliances,West,761.02,1,C509,Eric Marsh,Premium
+2023-04-29,P001,Laptop Pro X1,Electronics,East,1580.33,6,C510,Krystal Pacheco,Regular
+2023-08-16,P001,Laptop Pro X1,Electronics,East,443.53,10,C511,James Lynch,Budget
+2023-04-25,P001,Laptop Pro X1,Electronics,West,1543.6,9,C512,Sean Anderson,Premium
+2023-10-22,P004,Wireless Mouse,Electronics,West,1218.49,2,C513,Natalie Boone,Premium
+2023-01-12,P005,Dining Table Set,Furniture,North,1121.75,2,C514,Stacey Paul,Budget
+2023-01-23,P008,Smartwatch,Electronics,West,431.1,10,C515,Jessica Alvarez,Regular
+2023-09-28,P005,Dining Table Set,Furniture,West,1133.12,4,C516,Laura Daniels,Budget
+2023-04-12,P010,Refrigerator,Appliances,West,816.77,8,C517,Michelle Martinez,Regular
+2023-07-08,P006,Blender Pro,Appliances,West,611.18,1,C518,Lauren Hernandez,Premium
+2023-04-10,P007,Gaming Keyboard,Electronics,North,1968.23,3,C519,Miguel Daugherty,Regular
+2023-03-04,P003,Coffee Maker Deluxe,Appliances,North,1000.67,4,C520,Omar Kelly,Premium
+2023-09-25,P010,Refrigerator,Appliances,East,1772.84,9,C521,Kathleen Dunlap,Premium
+2023-11-06,P010,Refrigerator,Appliances,West,1517.72,8,C522,Michael Jimenez,Regular
+2023-08-04,P005,Dining Table Set,Furniture,West,1003.03,8,C523,Michelle Munoz,Budget
+2023-04-22,P005,Dining Table Set,Furniture,West,1742.49,1,C524,Robin Duncan,Premium
+2023-03-02,P006,Blender Pro,Appliances,West,80.38,7,C525,Jessica Mcdonald,Premium
+2023-11-02,P010,Refrigerator,Appliances,North,620.32,3,C526,Brittany Russell,Premium
+2023-03-24,P003,Coffee Maker Deluxe,Appliances,West,367.67,8,C527,Michael Clark,Regular
+2023-11-25,P007,Gaming Keyboard,Electronics,North,1331.21,5,C528,Colleen Garrison,Premium
+2023-11-18,P008,Smartwatch,Electronics,East,1829.21,6,C529,Gary Collins,Premium
+2023-06-29,P007,Gaming Keyboard,Electronics,West,1396.6,6,C530,Nicole Myers,Budget
+2023-05-27,P001,Laptop Pro X1,Electronics,West,611.96,4,C531,Tracy Anderson,Premium
+2023-10-26,P003,Coffee Maker Deluxe,Appliances,East,820.27,7,C532,Michael Stewart,Premium
+2023-09-22,P007,Gaming Keyboard,Electronics,West,1326.54,9,C533,Deborah Turner,Regular
+2023-05-20,P006,Blender Pro,Appliances,East,528.38,8,C534,Brandon Atkinson,Budget
+2023-01-01,P005,Dining Table Set,Furniture,West,1335.01,7,C535,Edward Trujillo,Regular
+2023-01-31,P005,Dining Table Set,Furniture,East,1648.02,4,C536,Virginia Little,Premium
+2023-02-19,P010,Refrigerator,Appliances,West,1440.22,4,C537,Christina Hernandez,Budget
+2023-10-21,P006,Blender Pro,Appliances,East,926.89,3,C538,David Pierce,Budget
+2023-01-15,P006,Blender Pro,Appliances,East,1477.93,3,C539,Tiffany Daniels,Regular
+2023-01-27,P007,Gaming Keyboard,Electronics,East,781.81,8,C540,Samuel West,Budget
+2023-06-02,P001,Laptop Pro X1,Electronics,West,1155.74,6,C541,Jessica Wright,Regular
+2023-02-25,P007,Gaming Keyboard,Electronics,North,580.92,1,C542,Kathryn Barnes,Budget
+2023-12-10,P006,Blender Pro,Appliances,North,1725.29,7,C543,Evelyn Morton,Regular
+2023-12-18,P008,Smartwatch,Electronics,West,1931.83,5,C544,Cindy Gregory,Premium
+2023-02-23,P009,Sofa Set,Furniture,East,819.1,10,C545,Martha Wells,Regular
+2023-04-29,P008,Smartwatch,Electronics,East,996.94,8,C546,Andrew Shaw,Regular
+2023-11-13,P008,Smartwatch,Electronics,East,927.88,6,C547,Kimberly Summers,Premium
+2023-10-02,P010,Refrigerator,Appliances,North,1865.3,5,C548,Sandra Bryant,Premium
+2023-06-23,P010,Refrigerator,Appliances,West,1174.94,2,C549,Amy Morris,Regular
+2023-08-09,P008,Smartwatch,Electronics,North,1168.67,6,C550,Alexander Smith,Budget
+2023-08-18,P006,Blender Pro,Appliances,North,915.88,7,C551,Terry Washington,Regular
+2023-08-04,P005,Dining Table Set,Furniture,East,229.11,2,C552,Christopher Caldwell,Budget
+2023-11-08,P010,Refrigerator,Appliances,West,756.44,6,C553,Brittany Blankenship,Premium
+2023-01-26,P003,Coffee Maker Deluxe,Appliances,West,815.98,3,C554,Monique Hill,Regular
+2023-03-09,P006,Blender Pro,Appliances,West,874.07,2,C555,Michael Rios,Premium
+2023-01-09,P005,Dining Table Set,Furniture,East,524.27,6,C556,Lauren Davis,Budget
+2023-05-13,P003,Coffee Maker Deluxe,Appliances,East,205.46,7,C557,Gail Bridges,Regular
+2023-09-10,P003,Coffee Maker Deluxe,Appliances,North,1828.6,5,C558,Brittany Johnson,Regular
+2023-07-23,P004,Wireless Mouse,Electronics,West,877.27,4,C559,Jasmine Lewis,Budget
+2023-03-26,P004,Wireless Mouse,Electronics,West,201.73,7,C560,Michael Blair,Regular
+2023-07-03,P007,Gaming Keyboard,Electronics,North,1502.46,9,C561,Debra Sanford,Premium
+2023-12-08,P007,Gaming Keyboard,Electronics,West,289.25,5,C562,Cynthia Wright,Regular
+2023-12-10,P007,Gaming Keyboard,Electronics,North,104.9,5,C563,Jack Lee,Regular
+2023-11-05,P004,Wireless Mouse,Electronics,North,1832.52,8,C564,Vicki Chambers,Budget
+2023-04-11,P004,Wireless Mouse,Electronics,East,1314.88,1,C565,Robert Robertson,Budget
+2023-12-24,P004,Wireless Mouse,Electronics,East,1108.78,9,C566,Cheryl Coffey,Regular
+2023-12-23,P009,Sofa Set,Furniture,North,1025.82,3,C567,Jesse Guzman,Budget
+2023-09-19,P006,Blender Pro,Appliances,North,64.18,2,C568,Luke Nelson,Regular
+2023-02-25,P003,Coffee Maker Deluxe,Appliances,West,1859.8,5,C569,Robert Jackson,Regular
+2023-03-28,P003,Coffee Maker Deluxe,Appliances,East,710.06,5,C570,Rhonda Turner,Premium
+2023-04-19,P010,Refrigerator,Appliances,West,291.43,9,C571,Duane Rodriguez,Premium
+2023-01-28,P003,Coffee Maker Deluxe,Appliances,North,1285.64,8,C572,Angie Carter,Budget
+2023-11-17,P005,Dining Table Set,Furniture,North,532.71,7,C573,David Williams,Premium
+2023-10-05,P006,Blender Pro,Appliances,North,1355.97,9,C574,Samuel Ellison,Premium
+2023-12-19,P008,Smartwatch,Electronics,East,1079.67,2,C575,John Kennedy,Regular
+2023-06-06,P002,Office Chair Ergonomic,Furniture,North,1137.94,6,C576,Richard Davis,Regular
+2023-12-24,P001,Laptop Pro X1,Electronics,West,358.01,10,C577,Darren Jackson,Regular
+2023-09-01,P001,Laptop Pro X1,Electronics,North,1765.76,3,C578,Michael Dean,Premium
+2023-05-21,P002,Office Chair Ergonomic,Furniture,West,1864.95,1,C579,Charles Mitchell,Regular
+2023-01-04,P007,Gaming Keyboard,Electronics,North,1910.26,4,C580,Eric York,Budget
+2023-11-25,P009,Sofa Set,Furniture,North,198.8,8,C581,Kevin Moreno,Regular
+2023-08-30,P004,Wireless Mouse,Electronics,West,917.61,1,C582,Victor Bradley,Premium
+2023-10-09,P003,Coffee Maker Deluxe,Appliances,East,1765.23,6,C583,Mark Martin,Premium
+2023-03-19,P007,Gaming Keyboard,Electronics,West,1426.39,8,C584,Julia Campbell,Premium
+2023-07-13,P007,Gaming Keyboard,Electronics,East,1605.27,8,C585,Benjamin Garcia,Premium
+2023-04-11,P007,Gaming Keyboard,Electronics,North,1669.62,2,C586,Richard Martinez DVM,Regular
+2023-08-26,P002,Office Chair Ergonomic,Furniture,West,420.9,7,C587,Kelsey Moore,Budget
+2023-02-11,P007,Gaming Keyboard,Electronics,North,868.85,9,C588,John Richardson,Regular
+2023-03-14,P003,Coffee Maker Deluxe,Appliances,West,1127.46,1,C589,Joseph Barrett,Regular
+2023-05-28,P007,Gaming Keyboard,Electronics,North,963.38,5,C590,Stanley Leblanc,Premium
+2023-01-28,P007,Gaming Keyboard,Electronics,North,1249.59,3,C591,William Owens,Premium
+2023-04-21,P009,Sofa Set,Furniture,North,1155.13,3,C592,Jeremy Obrien,Regular
+2023-02-15,P006,Blender Pro,Appliances,North,1103.14,2,C593,Cheryl Washington,Budget
+2023-07-20,P001,Laptop Pro X1,Electronics,North,1095.85,2,C594,Kurt Yates,Premium
+2023-10-17,P010,Refrigerator,Appliances,North,1928.64,3,C595,Kelly Figueroa,Regular
+2023-06-28,P001,Laptop Pro X1,Electronics,East,1236.16,9,C596,Justin Jordan,Premium
+2023-06-06,P003,Coffee Maker Deluxe,Appliances,West,77.5,10,C597,Teresa Smith,Regular
+2023-06-29,P003,Coffee Maker Deluxe,Appliances,North,1542.6,2,C598,Michael Smith,Premium
+2023-02-17,P003,Coffee Maker Deluxe,Appliances,North,428.29,9,C599,Monica Keller,Budget
+2023-09-24,P007,Gaming Keyboard,Electronics,West,1478.92,8,C600,Matthew Morgan,Regular
+2023-07-14,P007,Gaming Keyboard,Electronics,North,158.32,7,C601,Daniel Gardner,Budget
+2023-05-12,P002,Office Chair Ergonomic,Furniture,East,1480.89,6,C602,Ruth James,Regular
+2023-11-22,P006,Blender Pro,Appliances,West,1657.01,5,C603,Jessica Fischer,Budget
+2023-07-21,P010,Refrigerator,Appliances,West,769.05,7,C604,Adrian Williamson,Regular
+2023-07-03,P009,Sofa Set,Furniture,West,238.37,10,C605,Erica Young,Regular
+2023-09-25,P009,Sofa Set,Furniture,East,1470.89,2,C606,Renee Jones,Premium
+2023-02-24,P001,Laptop Pro X1,Electronics,North,1371.89,1,C607,Todd Barnett,Budget
+2023-10-19,P004,Wireless Mouse,Electronics,East,1515.7,2,C608,Scott Powers,Regular
+2023-09-12,P004,Wireless Mouse,Electronics,West,320.16,2,C609,Mary Mendoza,Budget
+2023-03-03,P005,Dining Table Set,Furniture,East,666.3,3,C610,Mrs. Margaret Duncan PhD,Regular
+2023-10-06,P005,Dining Table Set,Furniture,North,721.79,8,C611,Craig Salas,Budget
+2023-08-27,P002,Office Chair Ergonomic,Furniture,East,573.96,6,C612,Jeffrey Travis DDS,Regular
+2023-02-21,P002,Office Chair Ergonomic,Furniture,North,713.43,10,C613,Anthony Robinson,Regular
+2023-06-13,P004,Wireless Mouse,Electronics,West,1101.56,9,C614,Jessica Beltran,Budget
+2023-06-24,P006,Blender Pro,Appliances,East,151.9,8,C615,Jared Johnson,Regular
+2023-01-22,P001,Laptop Pro X1,Electronics,West,379.85,7,C616,Randall Thompson,Budget
+2023-11-25,P008,Smartwatch,Electronics,North,269.92,4,C617,Kristina Patton,Regular
+2023-09-01,P003,Coffee Maker Deluxe,Appliances,West,1366.74,3,C618,Marvin Carter,Regular
+2023-07-31,P006,Blender Pro,Appliances,West,515.74,5,C619,Jeffery Evans,Premium
+2023-07-03,P002,Office Chair Ergonomic,Furniture,East,668.51,6,C620,Christina Reynolds,Budget
+2023-09-01,P009,Sofa Set,Furniture,East,948.18,4,C621,Beth Daniels,Premium
+2023-12-13,P008,Smartwatch,Electronics,West,1685.13,5,C622,Gabrielle Rodriguez,Budget
+2023-02-02,P005,Dining Table Set,Furniture,West,832.8,8,C623,April Snow,Premium
+2023-03-31,P002,Office Chair Ergonomic,Furniture,North,1930.93,1,C624,Kelsey Porter,Budget
+2023-05-22,P007,Gaming Keyboard,Electronics,North,1211.88,10,C625,Roger Griffin,Premium
+2023-04-15,P009,Sofa Set,Furniture,West,1135.62,9,C626,Sandra Jones,Budget
+2023-07-04,P004,Wireless Mouse,Electronics,North,1098.99,4,C627,Alex Moody,Budget
+2023-12-03,P005,Dining Table Set,Furniture,East,608.58,8,C628,James Padilla,Regular
+2023-07-19,P006,Blender Pro,Appliances,West,1761.54,6,C629,Evan Hicks,Budget
+2023-08-01,P003,Coffee Maker Deluxe,Appliances,North,528.9,6,C630,Michelle Smith,Budget
+2023-11-29,P001,Laptop Pro X1,Electronics,West,1207.83,9,C631,Olivia Wright,Budget
+2023-04-18,P010,Refrigerator,Appliances,West,1845.36,1,C632,Jasmine Barrett,Premium
+2023-05-20,P004,Wireless Mouse,Electronics,North,1354.46,4,C633,Matthew Craig,Budget
+2023-12-07,P003,Coffee Maker Deluxe,Appliances,East,1923.19,2,C634,Lauren Patterson,Regular
+2023-06-03,P004,Wireless Mouse,Electronics,North,1654.69,3,C635,Corey Peterson,Budget
+2023-09-21,P003,Coffee Maker Deluxe,Appliances,East,773.8,5,C636,Jessica Jordan,Regular
+2023-11-13,P001,Laptop Pro X1,Electronics,West,802.83,10,C637,Rebecca Scott,Premium
+2023-09-30,P004,Wireless Mouse,Electronics,West,1485.27,6,C638,James Estrada,Budget
+2023-12-11,P006,Blender Pro,Appliances,North,128.05,7,C639,Amber Rodriguez,Regular
+2023-08-21,P009,Sofa Set,Furniture,North,1584.7,8,C640,Felicia Roberts,Regular
+2023-07-29,P008,Smartwatch,Electronics,North,1005.64,9,C641,David Hernandez,Premium
+2023-01-27,P003,Coffee Maker Deluxe,Appliances,North,1916.4,10,C642,Amanda Adkins,Regular
+2023-05-21,P002,Office Chair Ergonomic,Furniture,North,103.77,8,C643,Kenneth Morales,Budget
+2023-02-24,P007,Gaming Keyboard,Electronics,East,1533.56,10,C644,Lauren Garcia,Regular
+2023-01-25,P006,Blender Pro,Appliances,West,172.71,8,C645,Brittany White,Premium
+2023-07-14,P005,Dining Table Set,Furniture,North,1708.15,2,C646,Michael Gonzalez,Budget
+2023-08-30,P003,Coffee Maker Deluxe,Appliances,West,1873.35,7,C647,Nicole Aguirre,Premium
+2023-03-20,P001,Laptop Pro X1,Electronics,North,623.27,7,C648,Alexandra Collins,Regular
+2023-06-13,P005,Dining Table Set,Furniture,North,1832.53,3,C649,Michelle Montoya,Premium
+2023-08-22,P005,Dining Table Set,Furniture,East,480.77,1,C650,Kristen Crosby,Budget
+2023-11-25,P006,Blender Pro,Appliances,East,877.55,8,C651,Lorraine Foster,Budget
+2023-02-01,P008,Smartwatch,Electronics,West,1973.37,1,C652,Christopher Ellis,Premium
+2023-11-25,P004,Wireless Mouse,Electronics,West,301.47,9,C653,Shawn Herring,Premium
+2023-07-12,P007,Gaming Keyboard,Electronics,East,1779.51,10,C654,James Smith,Budget
+2023-05-21,P007,Gaming Keyboard,Electronics,East,814.56,3,C655,Sara Boyle,Budget
+2023-03-15,P002,Office Chair Ergonomic,Furniture,West,333.64,6,C656,Christina Allen,Regular
+2023-03-17,P004,Wireless Mouse,Electronics,North,1137.37,6,C657,Heather Jones,Premium
+2023-07-01,P002,Office Chair Ergonomic,Furniture,North,1576.52,9,C658,George Sims,Regular
+2023-06-02,P009,Sofa Set,Furniture,East,819.08,3,C659,Miss Tiffany Garcia,Budget
+2023-05-31,P003,Coffee Maker Deluxe,Appliances,East,836.52,6,C660,Patrick Miller,Premium
+2023-09-15,P004,Wireless Mouse,Electronics,East,1251.13,9,C661,Teresa Evans,Premium
+2023-04-30,P007,Gaming Keyboard,Electronics,North,1349.46,7,C662,George Holloway,Budget
+2023-03-01,P008,Smartwatch,Electronics,West,1730.72,7,C663,Cynthia Bennett,Budget
+2023-10-31,P002,Office Chair Ergonomic,Furniture,West,1317.43,9,C664,Anthony Avila,Regular
+2023-03-05,P004,Wireless Mouse,Electronics,East,1047.34,9,C665,Tiffany Torres,Budget
+2023-05-14,P010,Refrigerator,Appliances,West,1663.98,4,C666,Jeremiah Rivera,Premium
+2023-05-04,P009,Sofa Set,Furniture,West,944.52,4,C667,Gregory Branch,Regular
+2023-11-21,P007,Gaming Keyboard,Electronics,East,1838.86,10,C668,Allison Jacobs,Premium
+2023-10-16,P005,Dining Table Set,Furniture,West,982.87,8,C669,William May,Budget
+2023-11-27,P006,Blender Pro,Appliances,East,1944.65,7,C670,Amanda Chavez,Regular
+2023-05-02,P003,Coffee Maker Deluxe,Appliances,West,1596.98,8,C671,Megan Bruce,Regular
+2023-10-19,P003,Coffee Maker Deluxe,Appliances,North,1041.37,1,C672,Tammy Vincent,Budget
+2023-04-14,P004,Wireless Mouse,Electronics,West,1938.94,10,C673,Rhonda Morrison,Premium
+2023-01-09,P009,Sofa Set,Furniture,East,1058.8,5,C674,Nicole Coffey,Budget
+2023-09-25,P010,Refrigerator,Appliances,East,1064.94,3,C675,Mercedes Wilson,Regular
+2023-03-25,P008,Smartwatch,Electronics,East,1005.35,1,C676,Emily Ellison,Budget
+2023-12-13,P003,Coffee Maker Deluxe,Appliances,East,1758.12,9,C677,Greg Stewart,Premium
+2023-11-09,P010,Refrigerator,Appliances,North,450.69,9,C678,Juan Matthews,Regular
+2023-02-25,P006,Blender Pro,Appliances,North,646.53,5,C679,Angela Shields,Budget
+2023-06-17,P009,Sofa Set,Furniture,West,750.85,1,C680,Jennifer Hernandez,Budget
+2023-11-29,P008,Smartwatch,Electronics,East,528.52,3,C681,Jose Perry,Budget
+2023-08-21,P002,Office Chair Ergonomic,Furniture,East,1600.95,2,C682,Leslie Freeman,Regular
+2023-12-01,P002,Office Chair Ergonomic,Furniture,West,358.8,8,C683,Erin Macias,Budget
+2023-09-01,P010,Refrigerator,Appliances,North,1118.59,6,C684,Victor Harris,Premium
+2023-04-05,P006,Blender Pro,Appliances,West,1006.65,5,C685,Cindy Wright,Budget
+2023-11-25,P002,Office Chair Ergonomic,Furniture,East,1534.13,6,C686,Mary Gutierrez,Regular
+2023-01-15,P003,Coffee Maker Deluxe,Appliances,West,142.51,6,C687,Benjamin Young,Premium
+2023-08-14,P005,Dining Table Set,Furniture,East,1387.2,9,C688,Brandon Sparks,Budget
+2023-01-28,P002,Office Chair Ergonomic,Furniture,East,1467.88,10,C689,Joshua Smith,Premium
+2023-07-29,P002,Office Chair Ergonomic,Furniture,East,1634.5,8,C690,Hunter Armstrong,Premium
+2023-08-20,P008,Smartwatch,Electronics,East,100.6,10,C691,Kevin Johnson,Regular
+2023-01-11,P008,Smartwatch,Electronics,East,714.77,8,C692,Dr. Charles Thomas,Premium
+2023-05-22,P006,Blender Pro,Appliances,East,1081.07,9,C693,James Johnson,Budget
+2023-08-18,P009,Sofa Set,Furniture,West,1504.16,2,C694,Donna Henderson,Premium
+2023-05-23,P009,Sofa Set,Furniture,North,521.38,1,C695,Robert Meyer,Budget
+2023-11-21,P007,Gaming Keyboard,Electronics,North,1354.16,2,C696,James Morgan,Premium
+2023-08-18,P004,Wireless Mouse,Electronics,East,1777.61,7,C697,Thomas Gardner,Budget
+2023-05-19,P002,Office Chair Ergonomic,Furniture,North,1039.35,1,C698,Cathy Smith,Regular
+2023-11-30,P001,Laptop Pro X1,Electronics,East,712.35,2,C699,Mrs. Samantha Mendoza,Budget
+2023-09-08,P008,Smartwatch,Electronics,North,1282.46,1,C700,David Hurst,Premium
+2023-10-21,P010,Refrigerator,Appliances,North,484.58,6,C701,Jeremy Lewis,Regular
+2023-12-15,P002,Office Chair Ergonomic,Furniture,West,1076.8,7,C702,Frank Perez,Regular
+2023-01-30,P009,Sofa Set,Furniture,East,1331.16,2,C703,Mr. Jeffrey Skinner,Regular
+2023-06-05,P007,Gaming Keyboard,Electronics,North,1313.73,10,C704,Brian Golden,Premium
+2023-11-23,P007,Gaming Keyboard,Electronics,North,999.03,3,C705,Eric Carter,Premium
+2023-06-07,P001,Laptop Pro X1,Electronics,East,953.66,2,C706,Rebecca Maldonado,Premium
+2023-07-25,P007,Gaming Keyboard,Electronics,East,1552.71,10,C707,Michelle Johnson,Budget
+2023-05-12,P009,Sofa Set,Furniture,North,1193.4,1,C708,Kaitlyn Friedman,Budget
+2023-06-10,P008,Smartwatch,Electronics,East,1104.3,8,C709,Casey Boyd,Premium
+2023-06-27,P005,Dining Table Set,Furniture,North,1211.69,9,C710,Peter Allen,Premium
+2023-12-01,P004,Wireless Mouse,Electronics,West,255.46,2,C711,Brad Curtis,Premium
+2023-01-13,P010,Refrigerator,Appliances,East,888.43,3,C712,Tanya Nelson,Budget
+2023-11-04,P007,Gaming Keyboard,Electronics,West,687.87,2,C713,Jennifer Hart,Regular
+2023-06-20,P001,Laptop Pro X1,Electronics,West,812.27,3,C714,Jordan Tucker,Regular
+2023-09-07,P003,Coffee Maker Deluxe,Appliances,West,1299.31,4,C715,Scott Johnson,Premium
+2023-06-09,P007,Gaming Keyboard,Electronics,North,424.67,6,C716,Bruce Young,Regular
+2023-03-05,P005,Dining Table Set,Furniture,East,1208.36,3,C717,Angel Anderson,Premium
+2023-11-27,P002,Office Chair Ergonomic,Furniture,North,1614.23,8,C718,Jacob Maldonado,Regular
+2023-10-10,P002,Office Chair Ergonomic,Furniture,East,738.98,3,C719,Matthew Mills,Premium
+2023-10-24,P007,Gaming Keyboard,Electronics,West,179.59,3,C720,Jennifer Thompson,Premium
+2023-06-02,P003,Coffee Maker Deluxe,Appliances,West,1049.69,7,C721,Kimberly Harvey,Premium
+2023-07-06,P003,Coffee Maker Deluxe,Appliances,East,1958.15,5,C722,Cassandra Brewer,Budget
+2023-05-15,P010,Refrigerator,Appliances,West,1491.38,8,C723,Danielle Ingram,Regular
+2023-03-08,P004,Wireless Mouse,Electronics,East,1457.15,6,C724,Melanie Romero,Premium
+2023-03-23,P008,Smartwatch,Electronics,West,635.57,6,C725,Barbara Smith,Regular
+2023-01-21,P008,Smartwatch,Electronics,North,1261.54,3,C726,Craig Banks,Premium
+2023-03-15,P007,Gaming Keyboard,Electronics,North,1857.16,8,C727,Angela Jones,Budget
+2023-04-27,P001,Laptop Pro X1,Electronics,East,530.17,7,C728,Adam Hill,Regular
+2023-04-19,P001,Laptop Pro X1,Electronics,East,87.75,2,C729,Joanne Morgan,Regular
+2023-06-06,P008,Smartwatch,Electronics,North,773.57,5,C730,Christopher Barnes,Premium
+2023-06-06,P004,Wireless Mouse,Electronics,East,231.04,7,C731,Rachel Williams DDS,Budget
+2023-06-24,P002,Office Chair Ergonomic,Furniture,West,731.78,5,C732,Miss Julie Stevenson,Budget
+2023-01-27,P007,Gaming Keyboard,Electronics,North,1279.25,5,C733,Yesenia Foster,Budget
+2023-07-25,P002,Office Chair Ergonomic,Furniture,East,1683.36,10,C734,Emily Coleman,Budget
+2023-10-02,P007,Gaming Keyboard,Electronics,North,1801.11,5,C735,David Baker,Regular
+2023-08-18,P003,Coffee Maker Deluxe,Appliances,East,1341.38,6,C736,Michael Marshall,Budget
+2023-02-08,P001,Laptop Pro X1,Electronics,West,371.41,10,C737,Anthony Sawyer MD,Premium
+2023-10-20,P010,Refrigerator,Appliances,North,361.23,8,C738,Tanya Garcia,Regular
+2023-01-21,P009,Sofa Set,Furniture,West,1762.5,7,C739,Karen Hicks,Budget
+2023-12-14,P006,Blender Pro,Appliances,West,510.16,6,C740,Tracy Campbell,Regular
+2023-01-20,P005,Dining Table Set,Furniture,East,909.39,9,C741,Mary Martinez,Regular
+2023-08-24,P009,Sofa Set,Furniture,West,141.14,1,C742,Megan Brown,Budget
+2023-01-22,P001,Laptop Pro X1,Electronics,North,1718.01,1,C743,Daniel Hernandez DDS,Regular
+2023-08-09,P010,Refrigerator,Appliances,North,1127.58,2,C744,Savannah Scott,Budget
+2023-09-14,P008,Smartwatch,Electronics,East,1118.58,3,C745,Steven Lewis,Budget
+2023-09-16,P008,Smartwatch,Electronics,East,1227.82,10,C746,Dr. Kathryn Davis,Budget
+2023-12-28,P002,Office Chair Ergonomic,Furniture,East,926.23,10,C747,Tracey Smith,Regular
+2023-03-21,P009,Sofa Set,Furniture,East,326.89,5,C748,Dana Johnson,Premium
+2023-12-02,P002,Office Chair Ergonomic,Furniture,North,1540.92,4,C749,Wendy Garrison,Budget
+2023-07-19,P006,Blender Pro,Appliances,East,1105.17,4,C750,Christopher Ortiz,Premium
+2023-02-26,P004,Wireless Mouse,Electronics,West,975.39,3,C751,Cynthia Arnold,Regular
+2023-04-28,P005,Dining Table Set,Furniture,North,391.53,1,C752,Joshua Smith,Regular
+2023-07-24,P007,Gaming Keyboard,Electronics,West,1981.3,1,C753,Micheal Williams,Budget
+2023-05-08,P006,Blender Pro,Appliances,North,943.93,10,C754,Chris Gonzales,Premium
+2023-09-18,P004,Wireless Mouse,Electronics,East,1778.39,8,C755,Toni Rodriguez,Regular
+2023-12-26,P008,Smartwatch,Electronics,North,1401.69,10,C756,Kyle White,Budget
+2023-11-09,P001,Laptop Pro X1,Electronics,North,1887.42,4,C757,Laura Escobar,Budget
+2023-11-04,P003,Coffee Maker Deluxe,Appliances,West,232.93,10,C758,Richard Jones,Premium
+2023-12-22,P007,Gaming Keyboard,Electronics,West,1149.68,9,C759,Cathy Young,Budget
+2023-12-17,P010,Refrigerator,Appliances,East,1013.13,3,C760,Joseph Mcfarland,Premium
+2023-06-22,P001,Laptop Pro X1,Electronics,East,313.56,10,C761,Kristin Mckay,Regular
+2023-04-19,P009,Sofa Set,Furniture,North,1724.75,2,C762,Angela Atkins,Budget
+2023-10-14,P002,Office Chair Ergonomic,Furniture,West,1067.2,3,C763,Rebekah Rogers,Budget
+2023-10-09,P006,Blender Pro,Appliances,East,56.95,2,C764,Michael Bolton,Premium
+2023-08-26,P004,Wireless Mouse,Electronics,West,1784.78,5,C765,Paul Johnson,Premium
+2023-01-18,P002,Office Chair Ergonomic,Furniture,East,1201.36,5,C766,Debbie Taylor,Premium
+2023-08-27,P007,Gaming Keyboard,Electronics,East,1987.38,8,C767,Dawn Lewis,Premium
+2023-10-15,P009,Sofa Set,Furniture,North,964.44,9,C768,Candice Gonzales,Budget
+2023-08-11,P004,Wireless Mouse,Electronics,East,1617.47,2,C769,Stacy Smith,Premium
+2023-04-27,P003,Coffee Maker Deluxe,Appliances,West,725.2,9,C770,Megan Fuller,Budget
+2023-11-21,P010,Refrigerator,Appliances,North,1220.55,7,C771,James Lane,Budget
+2023-02-09,P005,Dining Table Set,Furniture,West,1371.53,5,C772,Katherine Bradshaw,Budget
+2023-06-15,P002,Office Chair Ergonomic,Furniture,East,967.07,2,C773,Ashley Arnold,Budget
+2023-05-30,P002,Office Chair Ergonomic,Furniture,North,949.55,6,C774,William Stanley,Budget
+2023-03-05,P004,Wireless Mouse,Electronics,West,1275.19,2,C775,Mark Gates,Regular
+2023-05-26,P005,Dining Table Set,Furniture,East,899.15,5,C776,Evan Paul,Regular
+2023-06-01,P006,Blender Pro,Appliances,West,1225.79,8,C777,Dennis Jackson,Budget
+2023-01-21,P009,Sofa Set,Furniture,West,1399.52,10,C778,Wendy Massey,Budget
+2023-07-26,P001,Laptop Pro X1,Electronics,East,1963.67,6,C779,Brian Ford,Regular
+2023-10-11,P006,Blender Pro,Appliances,North,338.07,3,C780,Jessica Carroll,Budget
+2023-07-06,P007,Gaming Keyboard,Electronics,East,1594.17,8,C781,Meghan Lawson,Budget
+2023-04-20,P004,Wireless Mouse,Electronics,West,844.95,3,C782,Craig Barrett,Budget
+2023-11-24,P009,Sofa Set,Furniture,East,1623.28,1,C783,Jeanette Garcia,Premium
+2023-11-04,P006,Blender Pro,Appliances,West,1110.09,9,C784,Kristine Rodriguez,Budget
+2023-02-26,P002,Office Chair Ergonomic,Furniture,West,1895.66,6,C785,Kyle Ross,Regular
+2023-08-21,P007,Gaming Keyboard,Electronics,North,1921.72,3,C786,Jessica Cook,Regular
+2023-09-28,P004,Wireless Mouse,Electronics,East,215.98,8,C787,Mr. Gabriel Williams,Premium
+2023-01-06,P009,Sofa Set,Furniture,West,101.97,6,C788,Stephanie Berry,Premium
+2023-06-15,P005,Dining Table Set,Furniture,East,129.11,6,C789,Kellie Austin,Regular
+2023-05-13,P004,Wireless Mouse,Electronics,West,1819.9,10,C790,Leslie Raymond,Budget
+2023-03-13,P009,Sofa Set,Furniture,West,449.5,6,C791,Donald Harrington,Budget
+2023-12-08,P008,Smartwatch,Electronics,East,1738.26,3,C792,Michelle Rivera,Regular
+2023-01-18,P003,Coffee Maker Deluxe,Appliances,West,782.05,7,C793,Matthew Hill,Premium
+2023-07-12,P010,Refrigerator,Appliances,North,1516.38,9,C794,Melissa Walker,Premium
+2023-12-30,P002,Office Chair Ergonomic,Furniture,West,1570.01,7,C795,Linda Williams,Budget
+2023-05-19,P005,Dining Table Set,Furniture,West,1677.7,10,C796,Mrs. Kathleen Bell,Premium
+2023-02-15,P008,Smartwatch,Electronics,North,1639.46,8,C797,Mary Diaz,Premium
+2023-03-17,P007,Gaming Keyboard,Electronics,East,528.99,6,C798,Judy Hill,Premium
+2023-06-27,P004,Wireless Mouse,Electronics,West,940.27,10,C799,Stephanie Gibson,Premium
+2023-12-26,P009,Sofa Set,Furniture,West,875.25,4,C800,Rebecca Hamilton,Premium
+2023-06-03,P007,Gaming Keyboard,Electronics,West,427.82,9,C801,John May,Budget
+2023-07-08,P003,Coffee Maker Deluxe,Appliances,West,1689.03,2,C802,Douglas Turner,Regular
+2023-05-06,P005,Dining Table Set,Furniture,West,828.33,9,C803,Andre Khan,Regular
+2023-05-21,P006,Blender Pro,Appliances,West,620.41,10,C804,Scott Dunn,Budget
+2023-08-09,P004,Wireless Mouse,Electronics,West,1636.12,2,C805,Gabriela Mcdonald,Regular
+2023-11-29,P009,Sofa Set,Furniture,West,1906.58,4,C806,Karen Flores,Regular
+2023-11-14,P008,Smartwatch,Electronics,East,867.46,2,C807,Jaime Herrera,Budget
+2023-05-21,P005,Dining Table Set,Furniture,West,797.31,3,C808,Stephen Duran,Regular
+2023-06-18,P009,Sofa Set,Furniture,West,684.05,4,C809,Stephanie Hoffman,Regular
+2023-01-20,P006,Blender Pro,Appliances,North,454.1,6,C810,Charles Palmer,Regular
+2023-01-13,P005,Dining Table Set,Furniture,North,453.7,10,C811,Cassandra Snow,Regular
+2023-01-06,P007,Gaming Keyboard,Electronics,West,895.76,4,C812,Jeffrey Allen,Budget
+2023-12-11,P005,Dining Table Set,Furniture,West,406.51,3,C813,Theresa Davis,Premium
+2023-02-04,P004,Wireless Mouse,Electronics,North,626.55,5,C814,Angel Mason,Premium
+2023-04-22,P010,Refrigerator,Appliances,East,1901.89,6,C815,Jasmine Martinez,Budget
+2023-05-03,P002,Office Chair Ergonomic,Furniture,West,1300.13,1,C816,Whitney Brown,Regular
+2023-07-09,P001,Laptop Pro X1,Electronics,North,1413.2,7,C817,Wayne Reed,Budget
+2023-06-19,P001,Laptop Pro X1,Electronics,West,1616.44,4,C818,Danielle Young,Budget
+2023-06-06,P006,Blender Pro,Appliances,East,1875.58,8,C819,Nathan Wolfe,Regular
+2023-10-06,P003,Coffee Maker Deluxe,Appliances,West,281.59,2,C820,David Weeks,Budget
+2023-02-15,P006,Blender Pro,Appliances,East,1905.59,9,C821,Gregory Davis DVM,Premium
+2023-07-06,P005,Dining Table Set,Furniture,East,1237.36,1,C822,Cody Smith,Regular
+2023-09-22,P002,Office Chair Ergonomic,Furniture,East,1403.24,1,C823,Susan Jackson,Budget
+2023-01-28,P002,Office Chair Ergonomic,Furniture,West,1301.73,1,C824,Lisa Travis,Premium
+2023-03-01,P006,Blender Pro,Appliances,West,127.65,6,C825,David Romero,Premium
+2023-12-21,P005,Dining Table Set,Furniture,West,674.84,8,C826,Jonathan Frazier,Regular
+2023-05-10,P008,Smartwatch,Electronics,North,883.78,5,C827,Andrew Campbell,Premium
+2023-05-05,P007,Gaming Keyboard,Electronics,West,584.23,3,C828,Jacob Kim,Regular
+2023-07-16,P005,Dining Table Set,Furniture,East,1767.24,2,C829,Charlene Ward,Regular
+2023-02-25,P004,Wireless Mouse,Electronics,North,555.46,4,C830,Ryan Rodriguez,Premium
+2023-04-07,P010,Refrigerator,Appliances,West,1135.21,6,C831,Jonathan Warner,Premium
+2023-11-27,P005,Dining Table Set,Furniture,East,1489.54,9,C832,James Salazar,Budget
+2023-09-11,P004,Wireless Mouse,Electronics,North,1836.55,8,C833,Juan Brooks,Premium
+2023-10-21,P005,Dining Table Set,Furniture,West,1925.07,6,C834,Sophia Miller,Budget
+2023-07-30,P007,Gaming Keyboard,Electronics,East,1244.01,7,C835,Laura Nelson,Regular
+2023-12-20,P002,Office Chair Ergonomic,Furniture,North,654.0,1,C836,Timothy Blanchard,Budget
+2023-07-09,P010,Refrigerator,Appliances,East,1587.46,4,C837,John Martin,Premium
+2023-12-04,P006,Blender Pro,Appliances,North,315.64,1,C838,Alicia Miller,Budget
+2023-02-07,P002,Office Chair Ergonomic,Furniture,East,673.28,10,C839,Kelly Phillips,Regular
+2023-08-11,P008,Smartwatch,Electronics,East,1324.5,1,C840,Michael Meyers,Budget
+2023-03-28,P006,Blender Pro,Appliances,East,438.97,3,C841,Raymond Vega,Regular
+2023-12-13,P008,Smartwatch,Electronics,East,1147.93,6,C842,Thomas Williams,Regular
+2023-03-25,P002,Office Chair Ergonomic,Furniture,East,1936.13,7,C843,Mary Ward,Budget
+2023-01-15,P008,Smartwatch,Electronics,North,926.98,8,C844,Brian Smith,Premium
+2023-01-09,P003,Coffee Maker Deluxe,Appliances,North,838.56,7,C845,Amy Reed,Premium
+2023-10-16,P001,Laptop Pro X1,Electronics,West,176.14,4,C846,Jennifer Smith,Premium
+2023-09-22,P003,Coffee Maker Deluxe,Appliances,North,1905.39,1,C847,Erin Baker,Premium
+2023-05-13,P008,Smartwatch,Electronics,North,1193.09,10,C848,Melanie Hernandez,Regular
+2023-08-11,P008,Smartwatch,Electronics,North,1075.98,8,C849,Dawn Yang,Regular
+2023-02-17,P005,Dining Table Set,Furniture,East,377.11,4,C850,Stephen Curtis,Budget
+2023-12-16,P003,Coffee Maker Deluxe,Appliances,West,910.44,6,C851,Kathryn Pearson,Budget
+2023-08-04,P008,Smartwatch,Electronics,East,1809.01,10,C852,Vincent Bauer,Budget
+2023-10-11,P003,Coffee Maker Deluxe,Appliances,North,402.56,2,C853,Matthew Sawyer,Premium
+2023-01-14,P009,Sofa Set,Furniture,North,1861.29,2,C854,Jennifer Mack DDS,Regular
+2023-06-06,P010,Refrigerator,Appliances,North,154.61,5,C855,David Wright,Regular
+2023-06-03,P008,Smartwatch,Electronics,North,144.9,4,C856,Stephen Oconnor,Regular
+2023-02-16,P010,Refrigerator,Appliances,North,575.66,8,C857,Erin Stewart,Premium
+2023-10-20,P003,Coffee Maker Deluxe,Appliances,West,71.28,3,C858,Laura Hunt,Budget
+2023-09-08,P009,Sofa Set,Furniture,North,1376.09,8,C859,James Hernandez,Premium
+2023-08-19,P010,Refrigerator,Appliances,East,305.42,5,C860,Angela Dalton,Premium
+2023-11-03,P007,Gaming Keyboard,Electronics,West,453.74,10,C861,Robert Clay,Budget
+2023-12-24,P010,Refrigerator,Appliances,North,330.98,4,C862,Sean Smith,Premium
+2023-04-12,P005,Dining Table Set,Furniture,East,1913.53,3,C863,Sharon Andersen,Premium
+2023-12-06,P003,Coffee Maker Deluxe,Appliances,East,1861.88,2,C864,Brandon Hancock,Premium
+2023-09-11,P002,Office Chair Ergonomic,Furniture,North,532.83,10,C865,Nancy Greene,Premium
+2023-11-08,P008,Smartwatch,Electronics,West,1942.85,7,C866,Caleb Freeman,Budget
+2023-04-03,P003,Coffee Maker Deluxe,Appliances,West,1606.49,2,C867,Michelle Dudley,Premium
+2023-11-28,P008,Smartwatch,Electronics,East,540.62,4,C868,Scott Montgomery,Regular
+2023-07-06,P002,Office Chair Ergonomic,Furniture,West,1226.92,2,C869,Paul Waters,Premium
+2023-10-11,P007,Gaming Keyboard,Electronics,West,1860.27,10,C870,Michael Gilbert,Regular
+2023-07-14,P010,Refrigerator,Appliances,West,1852.72,5,C871,Jamie Dominguez,Premium
+2023-02-18,P006,Blender Pro,Appliances,West,1939.51,8,C872,Catherine Stevens,Budget
+2023-06-01,P007,Gaming Keyboard,Electronics,East,1741.45,8,C873,Lauren Higgins,Budget
+2023-02-10,P004,Wireless Mouse,Electronics,North,1268.4,2,C874,Jonathan Sanchez,Regular
+2023-07-02,P004,Wireless Mouse,Electronics,West,195.59,7,C875,Heather Garza,Regular
+2023-06-13,P007,Gaming Keyboard,Electronics,West,421.52,8,C876,Vincent Mcclain,Regular
+2023-10-24,P006,Blender Pro,Appliances,North,602.35,10,C877,Deanna Trujillo,Premium
+2023-03-23,P010,Refrigerator,Appliances,West,847.41,3,C878,Kathleen Murphy,Premium
+2023-05-05,P001,Laptop Pro X1,Electronics,North,673.75,5,C879,Kevin Davis,Premium
+2023-11-12,P008,Smartwatch,Electronics,West,1411.41,8,C880,Richard Torres,Premium
+2023-12-16,P003,Coffee Maker Deluxe,Appliances,East,775.52,7,C881,Mark Williams,Budget
+2023-07-12,P008,Smartwatch,Electronics,West,306.32,10,C882,Anthony Gilbert,Regular
+2023-05-10,P009,Sofa Set,Furniture,North,1477.96,10,C883,Cory Hanson,Premium
+2023-07-23,P009,Sofa Set,Furniture,North,825.63,2,C884,Chad Rosales,Budget
+2023-08-22,P004,Wireless Mouse,Electronics,East,568.29,8,C885,Tracy Foster,Budget
+2023-10-17,P001,Laptop Pro X1,Electronics,East,358.93,6,C886,Corey Allen,Regular
+2023-01-13,P007,Gaming Keyboard,Electronics,East,127.36,5,C887,Molly Copeland,Budget
+2023-06-29,P006,Blender Pro,Appliances,West,1303.87,1,C888,Debra Gill,Premium
+2023-11-20,P005,Dining Table Set,Furniture,East,1589.86,9,C889,Thomas Martin,Budget
+2023-10-12,P008,Smartwatch,Electronics,West,1814.02,9,C890,Joshua Scott,Premium
+2023-10-18,P009,Sofa Set,Furniture,East,1163.71,7,C891,Stephanie Larson,Premium
+2023-01-24,P006,Blender Pro,Appliances,West,852.03,9,C892,Juan Adams,Budget
+2023-08-11,P005,Dining Table Set,Furniture,West,1075.4,9,C893,Jordan Logan,Budget
+2023-09-09,P003,Coffee Maker Deluxe,Appliances,West,960.62,7,C894,Jennifer Moore,Premium
+2023-10-23,P009,Sofa Set,Furniture,East,1980.72,2,C895,Colton Murphy,Premium
+2023-09-19,P010,Refrigerator,Appliances,East,519.17,1,C896,Corey Mccarthy,Premium
+2023-12-08,P010,Refrigerator,Appliances,East,729.06,9,C897,Christopher Hancock,Budget
+2023-12-14,P004,Wireless Mouse,Electronics,North,1272.95,6,C898,Lynn Smith,Budget
+2023-06-15,P007,Gaming Keyboard,Electronics,North,1029.02,6,C899,Matthew Becker,Premium
+2023-06-11,P010,Refrigerator,Appliances,North,1264.84,5,C900,Sarah Sanchez,Premium
+2023-08-02,P003,Coffee Maker Deluxe,Appliances,North,1798.69,7,C901,Mary King,Premium
+2023-02-23,P005,Dining Table Set,Furniture,West,998.51,8,C902,Erika Dixon,Premium
+2023-08-17,P006,Blender Pro,Appliances,North,237.61,8,C903,Christie Myers,Regular
+2023-02-12,P005,Dining Table Set,Furniture,East,1289.83,6,C904,James Reynolds,Premium
+2023-11-16,P008,Smartwatch,Electronics,North,658.17,1,C905,Nicole Anderson,Regular
+2023-02-18,P004,Wireless Mouse,Electronics,East,1281.19,9,C906,David Lynch,Premium
+2023-02-28,P003,Coffee Maker Deluxe,Appliances,North,1931.48,9,C907,Keith Dickson,Regular
+2023-07-08,P006,Blender Pro,Appliances,East,299.23,5,C908,Morgan Baker,Regular
+2023-05-13,P005,Dining Table Set,Furniture,East,1477.46,6,C909,Renee Williams,Budget
+2023-05-25,P002,Office Chair Ergonomic,Furniture,East,355.28,6,C910,Evan Turner,Regular
+2023-04-21,P001,Laptop Pro X1,Electronics,East,918.34,1,C911,Roger Jenkins,Regular
+2023-03-29,P005,Dining Table Set,Furniture,East,736.6,2,C912,Sean Johnson,Regular
+2023-02-27,P005,Dining Table Set,Furniture,North,586.31,9,C913,Victor Smith,Budget
+2023-11-17,P005,Dining Table Set,Furniture,North,225.99,7,C914,Tyler Jones,Premium
+2023-02-18,P009,Sofa Set,Furniture,West,485.62,1,C915,Monica Bowers,Budget
+2023-08-22,P010,Refrigerator,Appliances,North,977.58,4,C916,Amanda Jimenez,Regular
+2023-04-21,P001,Laptop Pro X1,Electronics,East,1860.52,5,C917,Dean Nelson,Regular
+2023-03-06,P003,Coffee Maker Deluxe,Appliances,West,517.68,1,C918,Jennifer Scott,Regular
+2023-10-18,P010,Refrigerator,Appliances,West,990.19,1,C919,Shaun Robinson DDS,Regular
+2023-11-08,P002,Office Chair Ergonomic,Furniture,West,854.43,2,C920,Martha Sanchez,Regular
+2023-11-20,P006,Blender Pro,Appliances,North,1892.66,8,C921,Jason Valdez,Budget
+2023-05-19,P002,Office Chair Ergonomic,Furniture,East,883.45,6,C922,Ian Miranda,Regular
+2023-01-30,P006,Blender Pro,Appliances,East,1704.09,8,C923,James Richards,Regular
+2023-06-20,P010,Refrigerator,Appliances,West,1556.52,1,C924,Michelle Fitzgerald,Premium
+2023-02-05,P007,Gaming Keyboard,Electronics,North,726.58,8,C925,Luke Watson,Premium
+2023-10-26,P003,Coffee Maker Deluxe,Appliances,North,333.15,6,C926,Dean Herrera,Premium
+2023-04-14,P004,Wireless Mouse,Electronics,West,1149.46,1,C927,Justin Ramirez,Budget
+2023-05-15,P005,Dining Table Set,Furniture,East,897.16,4,C928,Caleb Harper,Regular
+2023-09-12,P004,Wireless Mouse,Electronics,West,579.53,8,C929,Ian Petersen MD,Regular
+2023-10-24,P003,Coffee Maker Deluxe,Appliances,East,920.06,3,C930,Destiny Baker,Budget
+2023-03-09,P006,Blender Pro,Appliances,East,1359.15,4,C931,James Ruiz,Premium
+2023-04-07,P008,Smartwatch,Electronics,North,1755.16,4,C932,Jonathan Williams,Budget
+2023-12-23,P009,Sofa Set,Furniture,East,1950.9,9,C933,Donna Kane,Regular
+2023-10-22,P002,Office Chair Ergonomic,Furniture,North,737.73,8,C934,Dylan Hill,Premium
+2023-03-07,P004,Wireless Mouse,Electronics,East,254.86,5,C935,Michelle Gonzalez,Regular
+2023-07-16,P007,Gaming Keyboard,Electronics,West,166.99,4,C936,Timothy Johnston,Budget
+2023-03-05,P005,Dining Table Set,Furniture,North,339.48,8,C937,Brandon Howard,Premium
+2023-12-18,P001,Laptop Pro X1,Electronics,West,1284.13,7,C938,Antonio Wilkerson,Budget
+2023-11-19,P007,Gaming Keyboard,Electronics,West,448.7,8,C939,Jennifer Reyes,Budget
+2023-06-07,P002,Office Chair Ergonomic,Furniture,West,1341.95,9,C940,James Griffin,Premium
+2023-05-20,P003,Coffee Maker Deluxe,Appliances,West,275.98,2,C941,Yvonne Palmer,Regular
+2023-09-30,P005,Dining Table Set,Furniture,East,1554.91,3,C942,Trevor Coleman,Regular
+2023-01-18,P006,Blender Pro,Appliances,North,1709.37,4,C943,Michele Mcfarland,Regular
+2023-04-03,P008,Smartwatch,Electronics,West,1629.56,2,C944,Nicole Parker,Budget
+2023-10-14,P005,Dining Table Set,Furniture,East,1176.27,1,C945,James Jimenez,Regular
+2023-05-10,P003,Coffee Maker Deluxe,Appliances,North,54.54,6,C946,Rachael Bennett,Premium
+2023-03-07,P005,Dining Table Set,Furniture,North,806.75,5,C947,Lisa Stanley,Regular
+2023-02-18,P009,Sofa Set,Furniture,North,604.56,2,C948,Courtney Gray,Regular
+2023-05-13,P007,Gaming Keyboard,Electronics,East,1357.09,8,C949,Debbie Combs,Premium
+2023-11-17,P007,Gaming Keyboard,Electronics,West,1897.52,4,C950,Jon Miller,Premium
+2023-12-13,P006,Blender Pro,Appliances,East,1795.38,10,C951,Dalton Perez,Premium
+2023-05-15,P009,Sofa Set,Furniture,North,465.83,10,C952,Dr. Claire Elliott,Budget
+2023-10-20,P005,Dining Table Set,Furniture,West,1805.11,9,C953,Christine Bell,Premium
+2023-11-19,P002,Office Chair Ergonomic,Furniture,East,1952.93,8,C954,Alex Young,Regular
+2023-04-20,P008,Smartwatch,Electronics,North,1016.74,3,C955,Jessica Cardenas,Regular
+2023-11-30,P001,Laptop Pro X1,Electronics,West,786.1,9,C956,Tina King,Premium
+2023-12-22,P005,Dining Table Set,Furniture,North,1865.41,6,C957,Joseph Cuevas,Budget
+2023-07-17,P006,Blender Pro,Appliances,North,594.44,7,C958,Sarah Weber,Budget
+2023-10-02,P003,Coffee Maker Deluxe,Appliances,East,1158.2,9,C959,Raymond Reed,Premium
+2023-05-03,P005,Dining Table Set,Furniture,East,736.69,2,C960,Maria Johnson,Premium
+2023-06-06,P001,Laptop Pro X1,Electronics,East,1510.79,3,C961,Natasha Harris,Budget
+2023-07-10,P007,Gaming Keyboard,Electronics,West,58.88,10,C962,Brittany Cox,Budget
+2023-01-10,P006,Blender Pro,Appliances,West,345.36,5,C963,Tyler Smith,Premium
+2023-03-07,P005,Dining Table Set,Furniture,North,466.65,10,C964,Luis Howard,Premium
+2023-06-05,P006,Blender Pro,Appliances,East,477.92,2,C965,Daniel Wagner,Budget
+2023-12-19,P007,Gaming Keyboard,Electronics,West,259.28,3,C966,David Thomas,Premium
+2023-09-02,P008,Smartwatch,Electronics,North,1607.27,7,C967,Kelly Estes,Regular
+2023-06-30,P008,Smartwatch,Electronics,East,1252.79,5,C968,Megan Rodriguez,Budget
+2023-07-08,P001,Laptop Pro X1,Electronics,East,920.29,6,C969,Daniel Arias,Budget
+2023-07-14,P009,Sofa Set,Furniture,West,1746.36,10,C970,Corey Weaver,Regular
+2023-04-26,P010,Refrigerator,Appliances,North,1755.57,4,C971,Raymond Washington,Budget
+2023-10-14,P007,Gaming Keyboard,Electronics,North,1658.82,3,C972,James Meyer,Premium
+2023-09-10,P007,Gaming Keyboard,Electronics,North,135.94,9,C973,Tyler Diaz,Premium
+2023-11-02,P008,Smartwatch,Electronics,West,1998.32,9,C974,Ronald Lopez,Budget
+2023-07-29,P006,Blender Pro,Appliances,North,499.35,9,C975,Antonio Jones,Regular
+2023-12-18,P001,Laptop Pro X1,Electronics,East,131.78,6,C976,Ashley Gonzalez,Regular
+2023-12-21,P006,Blender Pro,Appliances,North,265.78,1,C977,Matthew Allison,Premium
+2023-07-08,P008,Smartwatch,Electronics,West,1897.43,1,C978,Stephen Martin,Regular
+2023-01-10,P005,Dining Table Set,Furniture,North,1383.11,2,C979,Meredith Moran,Budget
+2023-09-05,P004,Wireless Mouse,Electronics,North,1836.25,1,C980,Jaime Martin,Budget
+2023-12-14,P001,Laptop Pro X1,Electronics,North,1618.72,7,C981,James Fields,Premium
+2023-11-21,P003,Coffee Maker Deluxe,Appliances,East,1494.29,6,C982,Jake Cole,Premium
+2023-12-27,P003,Coffee Maker Deluxe,Appliances,North,1894.82,1,C983,Dr. Maria Russell,Regular
+2023-01-01,P009,Sofa Set,Furniture,East,1969.97,4,C984,Sharon Anthony,Premium
+2023-07-20,P007,Gaming Keyboard,Electronics,West,313.6,8,C985,Matthew Johnson,Budget
+2023-04-30,P002,Office Chair Ergonomic,Furniture,East,1896.6,6,C986,Mrs. Kristen Smith DDS,Premium
+2023-09-05,P005,Dining Table Set,Furniture,West,1800.7,7,C987,Julie Wall,Regular
+2023-03-20,P008,Smartwatch,Electronics,West,1933.22,8,C988,Monica Parks,Budget
+2023-09-13,P003,Coffee Maker Deluxe,Appliances,North,1245.77,5,C989,Mary Walker,Budget
+2023-07-01,P008,Smartwatch,Electronics,North,261.37,5,C990,Charles Parsons,Budget
+2023-05-20,P010,Refrigerator,Appliances,West,504.71,3,C991,Megan Williams,Budget
+2023-02-04,P008,Smartwatch,Electronics,North,1580.88,9,C992,Darren Medina,Premium
+2023-12-10,P002,Office Chair Ergonomic,Furniture,West,1821.84,7,C993,Luis Allen,Premium
+2023-04-28,P008,Smartwatch,Electronics,East,1354.44,5,C994,Brett Johnson,Budget
+2023-06-14,P008,Smartwatch,Electronics,East,980.37,2,C995,David Vega,Premium
+2023-10-31,P002,Office Chair Ergonomic,Furniture,North,746.25,5,C996,Brandon Castillo,Premium
+2023-09-04,P006,Blender Pro,Appliances,West,136.55,3,C997,Cynthia Johnston,Regular
+2023-07-31,P009,Sofa Set,Furniture,East,392.9,10,C998,Elizabeth Gilbert,Regular
+2023-05-29,P006,Blender Pro,Appliances,East,1807.65,2,C999,Angela James,Premium
+2023-04-17,P002,Office Chair Ergonomic,Furniture,West,1776.69,7,C1000,Jeffrey Mathis,Premium
